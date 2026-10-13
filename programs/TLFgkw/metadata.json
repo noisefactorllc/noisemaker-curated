@@ -1,0 +1,18 @@
+{
+  "id": "visualize:TLFgkw",
+  "code": "TLFgkw",
+  "title": "fluid flow",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/TLFgkw/program.dsl",
+  "dslSha256": "709da15aaf7ec80b39df2f18f884818a740c5a28d5ac587fb0e085410be53cf3",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "TLFgkw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777052506117,
+    "importedAt": 1779766246551
+  }
+}

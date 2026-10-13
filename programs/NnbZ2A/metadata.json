@@ -1,0 +1,19 @@
+{
+  "id": "blaster:NnbZ2A",
+  "code": "NnbZ2A",
+  "title": "bit rot",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/NnbZ2A/program.dsl",
+  "dslSha256": "d8a0522f9e303fbcf213f3b26c2fb5642e9e126b27e393eecd91d67245052b3f",
+  "source": {
+    "code": "NnbZ2A",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "bit rot",
+    "hasEffects": false,
+    "createdAt": 1782219506828
+  }
+}

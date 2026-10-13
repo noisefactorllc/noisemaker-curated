@@ -1,0 +1,19 @@
+{
+  "id": "blaster:0C4dKw",
+  "code": "0C4dKw",
+  "title": "Night Voxicles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/0C4dKw/program.dsl",
+  "dslSha256": "28991a2aa4136c858c798f1787836a6494aba3c3d4bbf44ee0904cf593ecb69c",
+  "source": {
+    "code": "0C4dKw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Night Voxicles",
+    "hasEffects": false,
+    "createdAt": 1790525884937
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:HrVWKw",
+  "code": "HrVWKw",
+  "title": "Untitled",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/HrVWKw/program.dsl",
+  "dslSha256": "608d1242731c0560222e5990d66319a3a0e3720f18deef4e97506d41d3a9a33f",
+  "source": {
+    "code": "HrVWKw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Untitled",
+    "hasEffects": false,
+    "createdAt": 1790442140046
+  }
+}

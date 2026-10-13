@@ -1,0 +1,18 @@
+{
+  "id": "visualize:Rz2C9g",
+  "code": "Rz2C9g",
+  "title": "city of the future",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/Rz2C9g/program.dsl",
+  "dslSha256": "7af06bc2b990d5ccb90a5028fe58add5b3ccfc62c31115a913f524757b9f9866",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "Rz2C9g",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776221927978,
+    "importedAt": 1779766246551
+  }
+}

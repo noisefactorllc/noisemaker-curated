@@ -1,0 +1,19 @@
+{
+  "id": "blaster:u_8aBg",
+  "code": "u_8aBg",
+  "title": "Orange Slosher",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/u_8aBg/program.dsl",
+  "dslSha256": "e0c083445a843a137e76fbba4572c897a6a0b034956253910dd61b9638493e08",
+  "source": {
+    "code": "u_8aBg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Orange Slosher",
+    "hasEffects": false,
+    "createdAt": 1781796198599
+  }
+}

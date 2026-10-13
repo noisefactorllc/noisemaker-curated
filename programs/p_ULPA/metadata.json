@@ -1,0 +1,18 @@
+{
+  "id": "visualize:p_ULPA",
+  "code": "p_ULPA",
+  "title": "sparkling wigglers",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/p_ULPA/program.dsl",
+  "dslSha256": "bc6afe5f609f97ae926719c1c1d302c958f0472964dc5e5416d9d3b7fd76bca3",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "p_ULPA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778816663835,
+    "importedAt": 1779766246551
+  }
+}

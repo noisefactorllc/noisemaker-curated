@@ -1,0 +1,18 @@
+{
+  "id": "visualize:d0pT9Q",
+  "code": "d0pT9Q",
+  "title": "flowing particles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/d0pT9Q/program.dsl",
+  "dslSha256": "a75842b86b116958e240a6c8209d228ff379321b1d6f0f2febbbcaed27478594",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "d0pT9Q",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777052624163,
+    "importedAt": 1779766246551
+  }
+}

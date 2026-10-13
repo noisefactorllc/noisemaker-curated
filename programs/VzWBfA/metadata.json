@@ -1,0 +1,18 @@
+{
+  "id": "visualize:VzWBfA",
+  "code": "VzWBfA",
+  "title": "living glop",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/VzWBfA/program.dsl",
+  "dslSha256": "0d819f9fb2242f2c94eedfbb2c2746cb230dfbc15acb8b0050990377e03253ff",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "VzWBfA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776097220113,
+    "importedAt": 1779766246551
+  }
+}

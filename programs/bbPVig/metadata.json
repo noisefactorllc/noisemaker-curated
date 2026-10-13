@@ -1,0 +1,18 @@
+{
+  "id": "visualize:bbPVig",
+  "code": "bbPVig",
+  "title": "beckoning",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/bbPVig/program.dsl",
+  "dslSha256": "f0d0a0c544ef5c3c8c41f1f94b551e63fcae721532d312f683eaa9b3fc056333",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "bbPVig",
+    "username": "aayars",
+    "app": "polymorphic",
+    "createdAt": 1778172020838,
+    "importedAt": 1779766246551
+  }
+}

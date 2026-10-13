@@ -1,0 +1,18 @@
+{
+  "id": "visualize:CUtnoA",
+  "code": "CUtnoA",
+  "title": "organic soup 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/CUtnoA/program.dsl",
+  "dslSha256": "28e5eae4ea2d60745e2e70492612d6a2d738feffdb02b3b057e09578b1cbf277",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "CUtnoA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778444958209,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:1Hjbig",
+  "code": "1Hjbig",
+  "title": "dark poolers",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/1Hjbig/program.dsl",
+  "dslSha256": "3293c6fe73781fe16eb0519c69466e5cf74a04e7fbfb3c1a8dd8816f8f60c3f8",
+  "source": {
+    "code": "1Hjbig",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "dark poolers",
+    "hasEffects": false,
+    "createdAt": 1779993871193
+  }
+}

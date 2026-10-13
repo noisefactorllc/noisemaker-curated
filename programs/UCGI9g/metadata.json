@@ -1,0 +1,18 @@
+{
+  "id": "visualize:UCGI9g",
+  "code": "UCGI9g",
+  "title": "incoming signal",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/UCGI9g/program.dsl",
+  "dslSha256": "fb158f8dfb635325bedd42881a760a9584336300f8de4018cba4cbf91af5c762",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "UCGI9g",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778697207306,
+    "importedAt": 1779766246551
+  }
+}

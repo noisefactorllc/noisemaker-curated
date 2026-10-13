@@ -1,0 +1,19 @@
+{
+  "id": "blaster:BiXL-Q",
+  "code": "BiXL-Q",
+  "title": "blue slosher",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/BiXL-Q/program.dsl",
+  "dslSha256": "b33ddf561838269c0a0f8afd3a79affe98e2ff66f7cdf8d073720759d8316032",
+  "source": {
+    "code": "BiXL-Q",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "blue slosher",
+    "hasEffects": false,
+    "createdAt": 1782404189047
+  }
+}

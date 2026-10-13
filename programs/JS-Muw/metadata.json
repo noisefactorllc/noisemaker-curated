@@ -1,0 +1,19 @@
+{
+  "id": "blaster:JS-Muw",
+  "code": "JS-Muw",
+  "title": "neon lights shine",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/JS-Muw/program.dsl",
+  "dslSha256": "4da23144926612ebddada17460ad97b9763628e7043e15cb70daab30fc5e557e",
+  "source": {
+    "code": "JS-Muw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "neon lights shine",
+    "hasEffects": false,
+    "createdAt": 1782662616413
+  }
+}

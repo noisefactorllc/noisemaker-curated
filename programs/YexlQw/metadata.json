@@ -1,0 +1,19 @@
+{
+  "id": "blaster:YexlQw",
+  "code": "YexlQw",
+  "title": "secret pattern",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/YexlQw/program.dsl",
+  "dslSha256": "c0c0aec8227e44c6dcfb9ec0874ce1055748e3fbe35e92c0b76c275d5dd93ecb",
+  "source": {
+    "code": "YexlQw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "secret pattern",
+    "hasEffects": false,
+    "createdAt": 1790028966184
+  }
+}

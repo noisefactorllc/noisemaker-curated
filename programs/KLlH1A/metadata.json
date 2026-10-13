@@ -1,0 +1,18 @@
+{
+  "id": "visualize:KLlH1A",
+  "code": "KLlH1A",
+  "title": "brane folds",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/KLlH1A/program.dsl",
+  "dslSha256": "3bb10cc5ce52d6419723347ca518c808afafa5919ea4724f32c3de21fe540751",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "KLlH1A",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1775924882644,
+    "importedAt": 1779766246551
+  }
+}

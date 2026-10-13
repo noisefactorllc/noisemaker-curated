@@ -1,0 +1,18 @@
+{
+  "id": "visualize:pafAcQ",
+  "code": "pafAcQ",
+  "title": "glorp",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/pafAcQ/program.dsl",
+  "dslSha256": "2550b6a6e38801d8df473f5e4d01ef84b68951c84e8ee819a0b040edce1ec449",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "pafAcQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778511385421,
+    "importedAt": 1779766246551
+  }
+}

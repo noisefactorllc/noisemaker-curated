@@ -1,0 +1,18 @@
+{
+  "id": "visualize:AyZAVQ",
+  "code": "AyZAVQ",
+  "title": "the fabric",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/AyZAVQ/program.dsl",
+  "dslSha256": "d7a6ef376265eba8fa587b69c65bc84f97aa1858850b7fb052c4e8d6cc4c6c17",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "AyZAVQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778818395059,
+    "importedAt": 1779766246551
+  }
+}

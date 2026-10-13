@@ -1,0 +1,19 @@
+{
+  "id": "blaster:awB68w",
+  "code": "awB68w",
+  "title": "dank attractor",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/awB68w/program.dsl",
+  "dslSha256": "7a95baa2867622c496eb4e354129809b9b6e9d16d7936c38afbeecff701f42ef",
+  "source": {
+    "code": "awB68w",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "dank attractor",
+    "hasEffects": false,
+    "createdAt": 1779997835610
+  }
+}

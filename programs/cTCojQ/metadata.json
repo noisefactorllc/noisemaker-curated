@@ -1,0 +1,19 @@
+{
+  "id": "blaster:cTCojQ",
+  "code": "cTCojQ",
+  "title": "Untitled",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/cTCojQ/program.dsl",
+  "dslSha256": "dd6487ef77a1583916b34cd535a83c940f610be70b46d7076371b6acb5e3a24b",
+  "source": {
+    "code": "cTCojQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Untitled",
+    "hasEffects": false,
+    "createdAt": 1790443537688
+  }
+}

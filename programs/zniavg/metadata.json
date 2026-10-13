@@ -1,0 +1,18 @@
+{
+  "id": "visualize:zniavg",
+  "code": "zniavg",
+  "title": "aqua fresh",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/zniavg/program.dsl",
+  "dslSha256": "070347d06a12f8624641d66b4b56a2fc20464e752102949e9928c3aeddaa2e7d",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "zniavg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1779041397188,
+    "importedAt": 1779766246551
+  }
+}

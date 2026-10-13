@@ -1,0 +1,19 @@
+{
+  "id": "blaster:1FeoLQ",
+  "code": "1FeoLQ",
+  "title": "horizon",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/1FeoLQ/program.dsl",
+  "dslSha256": "c092f9a2f6cfaf70b77455af3a5b28131df1763f54df9b310234ee6f88446b83",
+  "source": {
+    "code": "1FeoLQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "horizon",
+    "hasEffects": false,
+    "createdAt": 1789490411372
+  }
+}

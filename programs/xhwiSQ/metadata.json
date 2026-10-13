@@ -1,0 +1,18 @@
+{
+  "id": "visualize:xhwiSQ",
+  "code": "xhwiSQ",
+  "title": "warp flux",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/xhwiSQ/program.dsl",
+  "dslSha256": "0d2b0c86cee0da0d6b8842594bd77b0046e4045eda0b9334d287383e6072ef37",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "xhwiSQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778690479033,
+    "importedAt": 1779766246551
+  }
+}

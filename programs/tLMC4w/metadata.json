@@ -1,0 +1,19 @@
+{
+  "id": "blaster:tLMC4w",
+  "code": "tLMC4w",
+  "title": "wave sort",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/tLMC4w/program.dsl",
+  "dslSha256": "35a43f0140f4fb2872e09af0b759ad36838ccdb8fed9cdfb8b7455b812657420",
+  "source": {
+    "code": "tLMC4w",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "wave sort",
+    "hasEffects": false,
+    "createdAt": 1790649250585
+  }
+}

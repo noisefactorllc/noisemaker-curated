@@ -1,0 +1,18 @@
+{
+  "id": "visualize:bcNzTw",
+  "code": "bcNzTw",
+  "title": "slime time",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/bcNzTw/program.dsl",
+  "dslSha256": "c6bb96e08f62d09d49ca001a8136cd17868795acac4a2340ab50d489c717f1db",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "bcNzTw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776226454443,
+    "importedAt": 1779766246551
+  }
+}

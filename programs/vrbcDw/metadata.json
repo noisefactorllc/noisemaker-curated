@@ -1,0 +1,19 @@
+{
+  "id": "blaster:vrbcDw",
+  "code": "vrbcDw",
+  "title": "shiny satori",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/vrbcDw/program.dsl",
+  "dslSha256": "29b3043a190821114abb0d5f3bd5e461b738de6e4b8c627bfd6525241847cd45",
+  "source": {
+    "code": "vrbcDw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "shiny satori",
+    "hasEffects": false,
+    "createdAt": 1782497083741
+  }
+}

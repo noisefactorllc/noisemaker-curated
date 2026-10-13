@@ -1,0 +1,18 @@
+{
+  "id": "visualize:VhNVtQ",
+  "code": "VhNVtQ",
+  "title": "crawling kaleido",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/VhNVtQ/program.dsl",
+  "dslSha256": "3abfeefc253c1b8fdfcc6d75054a90eb37d19c05836b99a83511b3fadd111635",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "VhNVtQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778379187586,
+    "importedAt": 1779766246551
+  }
+}

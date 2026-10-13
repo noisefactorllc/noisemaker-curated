@@ -1,0 +1,19 @@
+{
+  "id": "blaster:M9joOw",
+  "code": "M9joOw",
+  "title": "biotic",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/M9joOw/program.dsl",
+  "dslSha256": "0c397d92e0db5bdff7d0e57c1394f036ecf98b10101ef9c89b41a43c579c05ef",
+  "source": {
+    "code": "M9joOw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "biotic",
+    "hasEffects": false,
+    "createdAt": 1784717618598
+  }
+}

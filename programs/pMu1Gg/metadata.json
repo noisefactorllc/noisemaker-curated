@@ -1,0 +1,18 @@
+{
+  "id": "visualize:pMu1Gg",
+  "code": "pMu1Gg",
+  "title": "retro",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/pMu1Gg/program.dsl",
+  "dslSha256": "d46667073770bbe2bab9bbc7f16f55051f088790dd907c837295a4399314ea87",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "pMu1Gg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776122442158,
+    "importedAt": 1779766246551
+  }
+}

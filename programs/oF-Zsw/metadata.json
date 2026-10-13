@@ -1,0 +1,19 @@
+{
+  "id": "blaster:oF-Zsw",
+  "code": "oF-Zsw",
+  "title": "multires reaction-diffusion",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/oF-Zsw/program.dsl",
+  "dslSha256": "9c6d2b58564df608ac953efad684e2acd70621752c486e419636fb939a96f56a",
+  "source": {
+    "code": "oF-Zsw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "multires reaction-diffusion",
+    "hasEffects": false,
+    "createdAt": 1779639000077
+  }
+}

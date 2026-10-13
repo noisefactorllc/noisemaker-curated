@@ -1,0 +1,19 @@
+{
+  "id": "blaster:RalPbw",
+  "code": "RalPbw",
+  "title": "bits and pieces",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/RalPbw/program.dsl",
+  "dslSha256": "1c406a9bd0c6fed703f06088a28175d013bfe4e3f9438590213584cb1779207d",
+  "source": {
+    "code": "RalPbw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "bits and pieces",
+    "hasEffects": false,
+    "createdAt": 1783678359667
+  }
+}

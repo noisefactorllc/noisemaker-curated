@@ -1,0 +1,18 @@
+{
+  "id": "visualize:wS37Vw",
+  "code": "wS37Vw",
+  "title": "jigglin' automata",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/wS37Vw/program.dsl",
+  "dslSha256": "7889fada59981e7592fa6155caf4cfa9fb5f51752efdd58b0072f20b874fa176",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "wS37Vw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776971166558,
+    "importedAt": 1779766246551
+  }
+}

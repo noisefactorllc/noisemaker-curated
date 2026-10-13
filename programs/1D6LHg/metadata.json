@@ -1,0 +1,19 @@
+{
+  "id": "blaster:1D6LHg",
+  "code": "1D6LHg",
+  "title": "soft splosion",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/1D6LHg/program.dsl",
+  "dslSha256": "e2c541d7d0a82a794e0d35b92e6c5e596330cc4e0b9ced042a5687552ae4d112",
+  "source": {
+    "code": "1D6LHg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "soft splosion",
+    "hasEffects": false,
+    "createdAt": 1785689824918
+  }
+}

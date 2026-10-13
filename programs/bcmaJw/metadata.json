@@ -1,0 +1,19 @@
+{
+  "id": "blaster:bcmaJw",
+  "code": "bcmaJw",
+  "title": "dark folds",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/bcmaJw/program.dsl",
+  "dslSha256": "f03321496523e660f1ff2dc75d6661ebde07de1dca8fe8c7e152b018f36f7a94",
+  "source": {
+    "code": "bcmaJw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "dark folds",
+    "hasEffects": false,
+    "createdAt": 1780000593439
+  }
+}

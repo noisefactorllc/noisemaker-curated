@@ -1,0 +1,18 @@
+{
+  "id": "visualize:8waOng",
+  "code": "8waOng",
+  "title": "warp flux 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/8waOng/program.dsl",
+  "dslSha256": "74060d79ed41425e19df473943c9ef6125cc1676bb1e4d73f367f0f68cf24282",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "8waOng",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778690723822,
+    "importedAt": 1779766246551
+  }
+}

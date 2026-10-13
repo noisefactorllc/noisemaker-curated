@@ -1,0 +1,21 @@
+{
+  "id": "blaster:fui1YA",
+  "code": "fui1YA",
+  "title": "psychedelic plasma tunnel",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/fui1YA/program.dsl",
+  "dslSha256": "5df1d95a486064eff4a74b542bd4daffc0ad43c595092bdb7a4bd4d22eb412b4",
+  "source": {
+    "code": "fui1YA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "shade",
+    "title": "psychedelic plasma tunnel",
+    "hasEffects": true,
+    "createdAt": 1790789343201
+  },
+  "effectsFile": "programs/fui1YA/effects.json",
+  "effectsSha256": "222dfe00921cf0441cb5d18e09ff10ebf5c015634a6f693010180a1731406fdd"
+}

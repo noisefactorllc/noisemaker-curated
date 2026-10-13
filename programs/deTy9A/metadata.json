@@ -1,0 +1,19 @@
+{
+  "id": "blaster:deTy9A",
+  "code": "deTy9A",
+  "title": "canopy",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/deTy9A/program.dsl",
+  "dslSha256": "df554f3d850c913c6435e5b1505d986331dd304066b6fec05a49b38fa96c3205",
+  "source": {
+    "code": "deTy9A",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "canopy",
+    "hasEffects": false,
+    "createdAt": 1783434180507
+  }
+}

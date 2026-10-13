@@ -1,0 +1,19 @@
+{
+  "id": "blaster:6l1kKA",
+  "code": "6l1kKA",
+  "title": "soft waves",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/6l1kKA/program.dsl",
+  "dslSha256": "56ae4fc51ca4fbaf2acc2ebb1c7616313a3a9333937f34c5584a715c6ec81e73",
+  "source": {
+    "code": "6l1kKA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "soft waves",
+    "hasEffects": false,
+    "createdAt": 1790617113324
+  }
+}

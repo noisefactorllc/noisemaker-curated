@@ -1,0 +1,19 @@
+{
+  "id": "blaster:SE_8mQ",
+  "code": "SE_8mQ",
+  "title": "glitchscape",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/SE_8mQ/program.dsl",
+  "dslSha256": "a340cf02c48cdd2443d73b75d5fb7ba8a7a03117a1d2d962ecff7b79e6227d4d",
+  "source": {
+    "code": "SE_8mQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "glitchscape",
+    "hasEffects": false,
+    "createdAt": 1787235396183
+  }
+}

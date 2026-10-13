@@ -1,0 +1,19 @@
+{
+  "id": "blaster:SrB57A",
+  "code": "SrB57A",
+  "title": "particles and voxels",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/SrB57A/program.dsl",
+  "dslSha256": "bb7fa07349e44dbf12d20ceef23f9b181dcc19a01f9f7566c86d419f3bd8ffaf",
+  "source": {
+    "code": "SrB57A",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "particles and voxels",
+    "hasEffects": false,
+    "createdAt": 1789358097905
+  }
+}

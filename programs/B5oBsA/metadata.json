@@ -1,0 +1,21 @@
+{
+  "id": "blaster:B5oBsA",
+  "code": "B5oBsA",
+  "title": "just another kaleido saturday",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/B5oBsA/program.dsl",
+  "dslSha256": "5a537ddf15e5c63faa63b95416c8639e676aa608593065e60cf7a323a821560b",
+  "source": {
+    "code": "B5oBsA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "just another kaleido saturday",
+    "hasEffects": true,
+    "createdAt": 1781360429242
+  },
+  "effectsFile": "programs/B5oBsA/effects.json",
+  "effectsSha256": "72a8bc534754f9779fd1232aa36a32828276ab8630ae79f4c7fc808c8e8cfb92"
+}

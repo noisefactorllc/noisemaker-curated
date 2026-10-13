@@ -1,0 +1,21 @@
+{
+  "id": "blaster:d-MpwA",
+  "code": "d-MpwA",
+  "title": "soft and cloudy",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/d-MpwA/program.dsl",
+  "dslSha256": "9c67639d6e2e6fa35b5cde2a9b1a9e51ef161b207477765e7f15c59e8125d6d9",
+  "source": {
+    "code": "d-MpwA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "soft and cloudy",
+    "hasEffects": true,
+    "createdAt": 1784149805187
+  },
+  "effectsFile": "programs/d-MpwA/effects.json",
+  "effectsSha256": "445aaeac92f35f0acf02fce7962720192b7d9d831730565b3c5682cd7c40ba6d"
+}

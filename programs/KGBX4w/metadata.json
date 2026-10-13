@@ -1,0 +1,19 @@
+{
+  "id": "blaster:KGBX4w",
+  "code": "KGBX4w",
+  "title": "dragon skin",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/KGBX4w/program.dsl",
+  "dslSha256": "2f948f00f74fb79a1998cbd7441e1a8ad3ea7a2c098dad7e8a15cd3c2e88d78c",
+  "source": {
+    "code": "KGBX4w",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "dragon skin",
+    "hasEffects": false,
+    "createdAt": 1784347750410
+  }
+}

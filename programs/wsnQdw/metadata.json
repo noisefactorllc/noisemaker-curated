@@ -1,0 +1,19 @@
+{
+  "id": "blaster:wsnQdw",
+  "code": "wsnQdw",
+  "title": "kaleido particles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/wsnQdw/program.dsl",
+  "dslSha256": "b2c3f9ecb13d9d3fb4cfed44143848aadc8d5a462192b9a4adac572463416177",
+  "source": {
+    "code": "wsnQdw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "kaleido particles",
+    "hasEffects": false,
+    "createdAt": 1791670353086
+  }
+}

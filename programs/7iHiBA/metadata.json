@@ -1,0 +1,18 @@
+{
+  "id": "visualize:7iHiBA",
+  "code": "7iHiBA",
+  "title": "hatchlings",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/7iHiBA/program.dsl",
+  "dslSha256": "84882fc6f5471e4409cbc7e514e0f75610ee013ffcbb14e74917cea029d40e42",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "7iHiBA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778687046183,
+    "importedAt": 1779766246551
+  }
+}

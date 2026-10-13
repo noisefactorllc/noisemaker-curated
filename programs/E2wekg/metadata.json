@@ -1,0 +1,18 @@
+{
+  "id": "visualize:E2wekg",
+  "code": "E2wekg",
+  "title": "the quickest silver",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/E2wekg/program.dsl",
+  "dslSha256": "db6169a22359437f05871cb1edcf2518e6d346139fcfc34250f24162b6e53779",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "E2wekg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776785918426,
+    "importedAt": 1779766246551
+  }
+}

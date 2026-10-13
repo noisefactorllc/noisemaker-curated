@@ -1,0 +1,18 @@
+{
+  "id": "visualize:xceTLA",
+  "code": "xceTLA",
+  "title": "diffraction",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/xceTLA/program.dsl",
+  "dslSha256": "4cd994b92790d6e2a96b098102f29020c25810f0c866771d1f8ad08a61c10430",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "xceTLA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776960967497,
+    "importedAt": 1779766246551
+  }
+}

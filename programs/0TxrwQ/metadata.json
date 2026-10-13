@@ -1,0 +1,18 @@
+{
+  "id": "visualize:0TxrwQ",
+  "code": "0TxrwQ",
+  "title": "squirmy automatons",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/0TxrwQ/program.dsl",
+  "dslSha256": "e76851886aeec276dce71322f90589e43e3a9fdf4fcf20f4dea0d1a3e00d90fa",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "0TxrwQ",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "createdAt": 1776117431146,
+    "importedAt": 1779766246551
+  }
+}

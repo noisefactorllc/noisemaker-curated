@@ -1,0 +1,19 @@
+{
+  "id": "blaster:Vjy9XQ",
+  "code": "Vjy9XQ",
+  "title": "electric city",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/Vjy9XQ/program.dsl",
+  "dslSha256": "8258f345febb86877f4d1ae41569cc967fcc19dd3e35ac8a1ccaa40886016ac7",
+  "source": {
+    "code": "Vjy9XQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "electric city",
+    "hasEffects": false,
+    "createdAt": 1783396509507
+  }
+}

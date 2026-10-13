@@ -1,0 +1,18 @@
+{
+  "id": "visualize:UQMtLA",
+  "code": "UQMtLA",
+  "title": "warp flow",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/UQMtLA/program.dsl",
+  "dslSha256": "191265d75f362158826b4dc4d6ae73dc3b2d9b941fe74d2513969b515aa65c15",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "UQMtLA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776225065519,
+    "importedAt": 1779766246551
+  }
+}

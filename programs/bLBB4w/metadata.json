@@ -1,0 +1,19 @@
+{
+  "id": "blaster:bLBB4w",
+  "code": "bLBB4w",
+  "title": "kaleido diffusion",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/bLBB4w/program.dsl",
+  "dslSha256": "262dbbc1c4ceaefd3f5303b9da50c7cf2b795dabfb19425c540bf3f89aa3b279",
+  "source": {
+    "code": "bLBB4w",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "kaleido diffusion",
+    "hasEffects": false,
+    "createdAt": 1779553839179
+  }
+}

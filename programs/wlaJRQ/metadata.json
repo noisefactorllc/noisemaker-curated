@@ -1,0 +1,19 @@
+{
+  "id": "blaster:wlaJRQ",
+  "code": "wlaJRQ",
+  "title": "soft cells",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/wlaJRQ/program.dsl",
+  "dslSha256": "8c456a06beaf82e2ff14e9ccc6aecbfc2ed0c4e5d390ecbae0352231688e41a6",
+  "source": {
+    "code": "wlaJRQ",
+    "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "title": "soft cells",
+    "hasEffects": false,
+    "createdAt": 1789103531412
+  }
+}

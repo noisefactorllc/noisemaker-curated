@@ -1,0 +1,19 @@
+{
+  "id": "blaster:l12LTw",
+  "code": "l12LTw",
+  "title": "tarantula",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/l12LTw/program.dsl",
+  "dslSha256": "5ba70c0c218cade01cb19821eeeeb77622dec7b01aab0e957a1129e19c5f8549",
+  "source": {
+    "code": "l12LTw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "tarantula",
+    "hasEffects": false,
+    "createdAt": 1784434005033
+  }
+}

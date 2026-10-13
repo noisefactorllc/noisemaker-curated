@@ -1,0 +1,19 @@
+{
+  "id": "blaster:aNG8UA",
+  "code": "aNG8UA",
+  "title": "shooters",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/aNG8UA/program.dsl",
+  "dslSha256": "5a87a4a2f88be45ac23364642a6de97d0679d03377141e789f8f3b0777f84f45",
+  "source": {
+    "code": "aNG8UA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "shooters",
+    "hasEffects": false,
+    "createdAt": 1789357016644
+  }
+}

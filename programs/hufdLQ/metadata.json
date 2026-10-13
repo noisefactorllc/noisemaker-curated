@@ -1,0 +1,19 @@
+{
+  "id": "blaster:hufdLQ",
+  "code": "hufdLQ",
+  "title": "future grid",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/hufdLQ/program.dsl",
+  "dslSha256": "8c70d4bb95673ddacb05c1ed1f6d23bf04e4fc99d8802d474402ff82b27f87e0",
+  "source": {
+    "code": "hufdLQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "future grid",
+    "hasEffects": false,
+    "createdAt": 1789362526795
+  }
+}

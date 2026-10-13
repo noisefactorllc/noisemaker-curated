@@ -1,0 +1,18 @@
+{
+  "id": "visualize:kwI7eQ",
+  "code": "kwI7eQ",
+  "title": "oozer",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/kwI7eQ/program.dsl",
+  "dslSha256": "0a2259f5d43d8f9609dc4467bec0c170fb0677dd54c2844573127c8543f8a808",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "kwI7eQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776323746427,
+    "importedAt": 1779766246551
+  }
+}

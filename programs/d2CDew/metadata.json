@@ -1,0 +1,19 @@
+{
+  "id": "blaster:d2CDew",
+  "code": "d2CDew",
+  "title": "dark passenger",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/d2CDew/program.dsl",
+  "dslSha256": "4a58e8d8913e221d11b5c193a003a9e3350deeeac6561c2be4b3c6d2f3e43ca9",
+  "source": {
+    "code": "d2CDew",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "dark passenger",
+    "hasEffects": false,
+    "createdAt": 1784717568230
+  }
+}

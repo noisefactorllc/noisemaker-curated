@@ -1,0 +1,18 @@
+{
+  "id": "visualize:a86kuw",
+  "code": "a86kuw",
+  "title": "down the drain",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/a86kuw/program.dsl",
+  "dslSha256": "5d665db95879cc85aab4b6d494d30c830e5c52024ed88cfd5f17427cffb74cd3",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "a86kuw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778805942416,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:9lVZTw",
+  "code": "9lVZTw",
+  "title": "satori",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/9lVZTw/program.dsl",
+  "dslSha256": "5483d14400bc9dd51d800ba6d28ed987ec37cb38c55c7ed65dc4158e70f3e0f9",
+  "source": {
+    "code": "9lVZTw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "satori",
+    "hasEffects": false,
+    "createdAt": 1782654802454
+  }
+}

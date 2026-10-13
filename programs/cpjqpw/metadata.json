@@ -1,0 +1,18 @@
+{
+  "id": "visualize:cpjqpw",
+  "code": "cpjqpw",
+  "title": "arterial",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/cpjqpw/program.dsl",
+  "dslSha256": "751e32f08547e0c7e361a1b52c391d905386c678153bb46f8dfc770042801364",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "cpjqpw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777950350519,
+    "importedAt": 1779766246551
+  }
+}

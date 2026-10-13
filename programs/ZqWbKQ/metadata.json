@@ -1,0 +1,19 @@
+{
+  "id": "blaster:ZqWbKQ",
+  "code": "ZqWbKQ",
+  "title": "landscape automation test 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/ZqWbKQ/program.dsl",
+  "dslSha256": "5d6a9e185b3e23cc58ca77877f9bb356f190929bdec03e67ae2bb89669c2b30f",
+  "source": {
+    "code": "ZqWbKQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "landscape automation test 2",
+    "hasEffects": false,
+    "createdAt": 1789492259903
+  }
+}

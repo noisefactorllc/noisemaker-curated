@@ -1,0 +1,19 @@
+{
+  "id": "blaster:8xAerw",
+  "code": "8xAerw",
+  "title": "tidepoolers extreme",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/8xAerw/program.dsl",
+  "dslSha256": "af3c5e82a4ceb26f08ab1dc3f430ab48b172f9537a04829b322930f22eeb8266",
+  "source": {
+    "code": "8xAerw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "tidepoolers extreme",
+    "hasEffects": false,
+    "createdAt": 1779992008382
+  }
+}

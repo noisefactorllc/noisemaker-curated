@@ -1,0 +1,19 @@
+{
+  "id": "blaster:0IlHtg",
+  "code": "0IlHtg",
+  "title": "Infrastructure",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/0IlHtg/program.dsl",
+  "dslSha256": "6f4a4b26b9ee1cf9a739fe5b75e77c1250a3f6043bdfa9da6d73e758754f41b0",
+  "source": {
+    "code": "0IlHtg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Infrastructure",
+    "hasEffects": false,
+    "createdAt": 1789746691398
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:GyzQxg",
+  "code": "GyzQxg",
+  "title": "solar prominence",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/GyzQxg/program.dsl",
+  "dslSha256": "7d459a915a719f9cb14b9f4cf66f44ba303ef12902b1cb0ceec2f5de7ebcab31",
+  "source": {
+    "code": "GyzQxg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "solar prominence",
+    "hasEffects": false,
+    "createdAt": 1781799043458
+  }
+}

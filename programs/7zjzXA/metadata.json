@@ -1,0 +1,18 @@
+{
+  "id": "visualize:7zjzXA",
+  "code": "7zjzXA",
+  "title": "twisty knots",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/7zjzXA/program.dsl",
+  "dslSha256": "6dd1c194460ffefc5b0c27cfe4d37f61e526c78ad4dfa70c6bd580e32a3b41c9",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "7zjzXA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777483100337,
+    "importedAt": 1779766246551
+  }
+}

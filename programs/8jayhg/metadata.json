@@ -1,0 +1,19 @@
+{
+  "id": "blaster:8jayhg",
+  "code": "8jayhg",
+  "title": "äẗṁöṡṗḧëṛë",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/8jayhg/program.dsl",
+  "dslSha256": "0ec7bf28556fba910da79759526f5c3fab61f366185703a1e9befdf9c83f9363",
+  "source": {
+    "code": "8jayhg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "äẗṁöṡṗḧëṛë",
+    "hasEffects": false,
+    "createdAt": 1780285758016
+  }
+}

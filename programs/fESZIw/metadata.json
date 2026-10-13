@@ -1,0 +1,19 @@
+{
+  "id": "blaster:fESZIw",
+  "code": "fESZIw",
+  "title": "parallax heighmap",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/fESZIw/program.dsl",
+  "dslSha256": "f0277038c77ea139c20e6fb712f195159b60420d68306cff46d0f022d83ef955",
+  "source": {
+    "code": "fESZIw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "parallax heighmap",
+    "hasEffects": false,
+    "createdAt": 1783397126301
+  }
+}

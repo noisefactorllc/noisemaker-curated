@@ -1,0 +1,19 @@
+{
+  "id": "blaster:HmX6ZA",
+  "code": "HmX6ZA",
+  "title": "programmable matter",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/HmX6ZA/program.dsl",
+  "dslSha256": "479e5624314717e3e0ff9be37aa0296610cbc40eb65bedb2c2d9b199b7998da9",
+  "source": {
+    "code": "HmX6ZA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "programmable matter",
+    "hasEffects": false,
+    "createdAt": 1783860509436
+  }
+}

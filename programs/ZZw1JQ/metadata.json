@@ -1,0 +1,18 @@
+{
+  "id": "visualize:ZZw1JQ",
+  "code": "ZZw1JQ",
+  "title": "dual renderers",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/ZZw1JQ/program.dsl",
+  "dslSha256": "a90c9863c0a74f16414b7f5f4428d4b2a54d9d67e9bd5814db42b67c210122ed",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "ZZw1JQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777999324847,
+    "importedAt": 1779766246551
+  }
+}

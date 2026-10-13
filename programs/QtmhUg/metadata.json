@@ -1,0 +1,18 @@
+{
+  "id": "visualize:QtmhUg",
+  "code": "QtmhUg",
+  "title": "teh matrex haz u",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/QtmhUg/program.dsl",
+  "dslSha256": "dbfeae795c98cbe91a5afc0c9c0778f0332b478b9095f49229c0bbc569ea6e4d",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "QtmhUg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776092604467,
+    "importedAt": 1779766246551
+  }
+}

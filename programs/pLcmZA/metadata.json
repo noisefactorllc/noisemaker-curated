@@ -1,0 +1,19 @@
+{
+  "id": "blaster:pLcmZA",
+  "code": "pLcmZA",
+  "title": "recombinant",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/pLcmZA/program.dsl",
+  "dslSha256": "343a4745dde0c819baaad2f607d6df1c38e5a473f0dac6326f7546dfcef03dd3",
+  "source": {
+    "code": "pLcmZA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "recombinant",
+    "hasEffects": false,
+    "createdAt": 1783954391700
+  }
+}

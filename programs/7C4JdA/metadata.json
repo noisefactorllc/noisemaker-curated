@@ -1,0 +1,19 @@
+{
+  "id": "blaster:7C4JdA",
+  "code": "7C4JdA",
+  "title": "molten rock",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/7C4JdA/program.dsl",
+  "dslSha256": "1037957bcaf425d63b192508a00613c37e7de410a796d86f584849705aaa6fff",
+  "source": {
+    "code": "7C4JdA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "molten rock",
+    "hasEffects": false,
+    "createdAt": 1782602040307
+  }
+}

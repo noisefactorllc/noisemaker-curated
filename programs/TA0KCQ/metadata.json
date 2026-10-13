@@ -1,0 +1,18 @@
+{
+  "id": "visualize:TA0KCQ",
+  "code": "TA0KCQ",
+  "title": "juicy",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/TA0KCQ/program.dsl",
+  "dslSha256": "6398e48a53ce483c878c0a1618e60a21e131ac4fd014cf608846c47f99486444",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "TA0KCQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778480139279,
+    "importedAt": 1779766246551
+  }
+}

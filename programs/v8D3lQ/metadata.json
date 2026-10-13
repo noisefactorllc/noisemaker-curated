@@ -1,0 +1,19 @@
+{
+  "id": "blaster:v8D3lQ",
+  "code": "v8D3lQ",
+  "title": "chaos voxicles 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/v8D3lQ/program.dsl",
+  "dslSha256": "48e4884a82411ea5b3b36b25285e689ac7e246af1ed347bf705a5655ccd1ba8d",
+  "source": {
+    "code": "v8D3lQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "chaos voxicles 2",
+    "hasEffects": false,
+    "createdAt": 1791753399767
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:uKIV-w",
+  "code": "uKIV-w",
+  "title": "neurons",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/uKIV-w/program.dsl",
+  "dslSha256": "d927a129f13f60d768967a2261751e19a29df3ac3b52204199710b711235f8fa",
+  "source": {
+    "code": "uKIV-w",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "neurons",
+    "hasEffects": false,
+    "createdAt": 1779646464085
+  }
+}

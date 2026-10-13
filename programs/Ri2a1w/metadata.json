@@ -1,0 +1,18 @@
+{
+  "id": "visualize:Ri2a1w",
+  "code": "Ri2a1w",
+  "title": "gem is outrageous",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/Ri2a1w/program.dsl",
+  "dslSha256": "0f30b88695a0e7ae687ba983abc9ae182c95971679cb7e75afa8eabb507a68d4",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "Ri2a1w",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777319138081,
+    "importedAt": 1779766246551
+  }
+}

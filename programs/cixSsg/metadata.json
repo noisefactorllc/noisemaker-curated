@@ -1,0 +1,19 @@
+{
+  "id": "blaster:cixSsg",
+  "code": "cixSsg",
+  "title": "voxicles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/cixSsg/program.dsl",
+  "dslSha256": "465d69e415a1dd27c6142b24603a53eccc634bbe3e6f5cb9eef1a2e1fa3436b0",
+  "source": {
+    "code": "cixSsg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "voxicles",
+    "hasEffects": false,
+    "createdAt": 1789751410039
+  }
+}

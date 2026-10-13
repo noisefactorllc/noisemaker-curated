@@ -1,0 +1,19 @@
+{
+  "id": "blaster:2ifcpA",
+  "code": "2ifcpA",
+  "title": "chaos",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/2ifcpA/program.dsl",
+  "dslSha256": "84391daafccc020e166618ef9039c11f817eed0fe7a6c1b50700fcb902b74115",
+  "source": {
+    "code": "2ifcpA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "chaos",
+    "hasEffects": false,
+    "createdAt": 1781747541248
+  }
+}

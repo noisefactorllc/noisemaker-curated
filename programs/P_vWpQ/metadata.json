@@ -1,0 +1,19 @@
+{
+  "id": "blaster:P_vWpQ",
+  "code": "P_vWpQ",
+  "title": "satori 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/P_vWpQ/program.dsl",
+  "dslSha256": "a868361ab5e2f7c8f68792756fbf653cfcec629d3173720ae8caa90657659b35",
+  "source": {
+    "code": "P_vWpQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "satori 2",
+    "hasEffects": false,
+    "createdAt": 1782656101276
+  }
+}

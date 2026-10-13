@@ -1,0 +1,19 @@
+{
+  "id": "blaster:c_tWOg",
+  "code": "c_tWOg",
+  "title": "bistable",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/c_tWOg/program.dsl",
+  "dslSha256": "ea84f0c0a5ce44d1d8a93079f6a07acc22696901c45009d05f2757fdcec3387b",
+  "source": {
+    "code": "c_tWOg",
+    "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "title": "bistable",
+    "hasEffects": false,
+    "createdAt": 1789705109504
+  }
+}

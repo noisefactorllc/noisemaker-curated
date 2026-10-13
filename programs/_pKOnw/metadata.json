@@ -1,0 +1,19 @@
+{
+  "id": "blaster:_pKOnw",
+  "code": "_pKOnw",
+  "title": "feedback dunes",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/_pKOnw/program.dsl",
+  "dslSha256": "d0a1c31561d598f5e4d15f280f313e11bd63297e92152ebcf43c51be9bdbb507",
+  "source": {
+    "code": "_pKOnw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "feedback dunes",
+    "hasEffects": false,
+    "createdAt": 1791136934832
+  }
+}

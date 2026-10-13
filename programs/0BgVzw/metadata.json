@@ -1,0 +1,19 @@
+{
+  "id": "blaster:0BgVzw",
+  "code": "0BgVzw",
+  "title": "house party",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/0BgVzw/program.dsl",
+  "dslSha256": "06e72f7777194c86269c8818c4d783daaebc4f39df2acb7d8a7ef70e806d41bb",
+  "source": {
+    "code": "0BgVzw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "house party",
+    "hasEffects": false,
+    "createdAt": 1781447824970
+  }
+}

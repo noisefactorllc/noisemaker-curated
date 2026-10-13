@@ -1,0 +1,18 @@
+{
+  "id": "visualize:Lcu5gQ",
+  "code": "Lcu5gQ",
+  "title": "warp fingers",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/Lcu5gQ/program.dsl",
+  "dslSha256": "7d87cce42fd4f811ea6508b26f6d7b7cec20d49c7cb58f7730aa0ae1f393d027",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "Lcu5gQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778787160584,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:4mEx7g",
+  "code": "4mEx7g",
+  "title": "Hungry Squares",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/4mEx7g/program.dsl",
+  "dslSha256": "b99c07ef60277ecf972048d1756e9fc904036eca1c120c37ad6b71a3cd5cf9d8",
+  "source": {
+    "code": "4mEx7g",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Hungry Squares",
+    "hasEffects": false,
+    "createdAt": 1782438039037
+  }
+}

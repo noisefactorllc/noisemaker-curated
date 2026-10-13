@@ -1,0 +1,19 @@
+{
+  "id": "blaster:kQ_2mw",
+  "code": "kQ_2mw",
+  "title": "Weird Mandala",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/kQ_2mw/program.dsl",
+  "dslSha256": "437d819698908980845ec92084d33c88277ca979579c3c4a4c636d06a007266b",
+  "source": {
+    "code": "kQ_2mw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Weird Mandala",
+    "hasEffects": false,
+    "createdAt": 1781452470782
+  }
+}

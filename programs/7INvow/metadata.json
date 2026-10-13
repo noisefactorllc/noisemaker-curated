@@ -1,0 +1,21 @@
+{
+  "id": "blaster:7INvow",
+  "code": "7INvow",
+  "title": "prismatic chemtrails",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/7INvow/program.dsl",
+  "dslSha256": "0644a9d8988f073f326877fa605d23dca09a71018a3def43a7665a5c9cf6b5a1",
+  "source": {
+    "code": "7INvow",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "shade",
+    "title": "prismatic chemtrails",
+    "hasEffects": true,
+    "createdAt": 1790977747420
+  },
+  "effectsFile": "programs/7INvow/effects.json",
+  "effectsSha256": "2cafd4abe85c3d6e9735cc071f140f3cbee67a6bc52082738ce21febb579cb67"
+}

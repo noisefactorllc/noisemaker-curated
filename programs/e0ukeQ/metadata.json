@@ -1,0 +1,19 @@
+{
+  "id": "blaster:e0ukeQ",
+  "code": "e0ukeQ",
+  "title": "blocko",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/e0ukeQ/program.dsl",
+  "dslSha256": "09b60f680c630367d35033b92c099249fb543c65936632b6d9c254e440fe5fec",
+  "source": {
+    "code": "e0ukeQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "blocko",
+    "hasEffects": false,
+    "createdAt": 1790452325002
+  }
+}

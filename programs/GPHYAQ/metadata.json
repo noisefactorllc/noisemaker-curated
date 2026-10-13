@@ -1,0 +1,18 @@
+{
+  "id": "visualize:GPHYAQ",
+  "code": "GPHYAQ",
+  "title": "matrix mirror",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/GPHYAQ/program.dsl",
+  "dslSha256": "8342df62a1fc10aa7b81e8c40d3534ed4059ce69ee1d02d900c5cbac18cd0e94",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "GPHYAQ",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777154976127,
+    "importedAt": 1779766246551
+  }
+}

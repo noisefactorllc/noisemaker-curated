@@ -1,0 +1,19 @@
+{
+  "id": "blaster:3CezRQ",
+  "code": "3CezRQ",
+  "title": "organic diffusion",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/3CezRQ/program.dsl",
+  "dslSha256": "fab37df31e9b94dab5d81b58f5b53098b793d6c24b2aa3c70885e5f9d4f3dd15",
+  "source": {
+    "code": "3CezRQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "organic diffusion",
+    "hasEffects": false,
+    "createdAt": 1784345499433
+  }
+}

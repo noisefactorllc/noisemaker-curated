@@ -1,0 +1,19 @@
+{
+  "id": "blaster:QuT9WA",
+  "code": "QuT9WA",
+  "title": "parallax cells",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/QuT9WA/program.dsl",
+  "dslSha256": "4fc462a8312d0dbb0eb04ee4772ad446386c0adbb8b12a0022e921abc79bf7fb",
+  "source": {
+    "code": "QuT9WA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "parallax cells",
+    "hasEffects": false,
+    "createdAt": 1783399509229
+  }
+}

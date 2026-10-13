@@ -1,0 +1,19 @@
+{
+  "id": "blaster:bRUa1g",
+  "code": "bRUa1g",
+  "title": "Lit Noise Example",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/bRUa1g/program.dsl",
+  "dslSha256": "5781b7734883050a6c33660a702776077f0be099110c7f2f3fe3d55c04d02814",
+  "source": {
+    "code": "bRUa1g",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Lit Noise Example",
+    "hasEffects": false,
+    "createdAt": 1781393374701
+  }
+}

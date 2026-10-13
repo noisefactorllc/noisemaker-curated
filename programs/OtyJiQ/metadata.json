@@ -1,0 +1,19 @@
+{
+  "id": "blaster:OtyJiQ",
+  "code": "OtyJiQ",
+  "title": "some disassembly required",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/OtyJiQ/program.dsl",
+  "dslSha256": "4f703b3ade743ce9891cc87994dbda0c4f8d9d41d2eb1ff1f8e0a78cd09073b0",
+  "source": {
+    "code": "OtyJiQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "some disassembly required",
+    "hasEffects": false,
+    "createdAt": 1783827535515
+  }
+}

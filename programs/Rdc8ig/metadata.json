@@ -1,0 +1,18 @@
+{
+  "id": "visualize:Rdc8ig",
+  "code": "Rdc8ig",
+  "title": "multires reaction",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/Rdc8ig/program.dsl",
+  "dslSha256": "e959ae0c8f966b118e19fefa46da7c1402ae4e9cbe6691736f5ef99ef2adc933",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "Rdc8ig",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778428593681,
+    "importedAt": 1779766246551
+  }
+}

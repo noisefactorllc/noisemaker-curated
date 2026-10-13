@@ -1,0 +1,19 @@
+{
+  "id": "blaster:9ClItw",
+  "code": "9ClItw",
+  "title": "bottled at the source",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/9ClItw/program.dsl",
+  "dslSha256": "8c7e2095bb3928f9f403460f5f9f215868dc128c2b8e115aa2233e469c63637b",
+  "source": {
+    "code": "9ClItw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "bottled at the source",
+    "hasEffects": false,
+    "createdAt": 1782666134338
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "visualize:tif_YQ",
+  "code": "tif_YQ",
+  "title": "xor ynot",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/tif_YQ/program.dsl",
+  "dslSha256": "36dced3dcfd3163eb97c248220eb3d425868d00382a021612f7c716ed3fbbe01",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "tif_YQ",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "createdAt": 1777950574097,
+    "importedAt": 1779766246551
+  }
+}

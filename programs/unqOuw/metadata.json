@@ -1,0 +1,19 @@
+{
+  "id": "blaster:unqOuw",
+  "code": "unqOuw",
+  "title": "julia sunspots",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/unqOuw/program.dsl",
+  "dslSha256": "5900cde8ea3ada28a7ce60ad01abec4d2846a8ce69b79bc0eb2005153445cebd",
+  "source": {
+    "code": "unqOuw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "julia sunspots",
+    "hasEffects": false,
+    "createdAt": 1780329852271
+  }
+}

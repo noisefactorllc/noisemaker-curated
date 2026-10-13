@@ -1,0 +1,19 @@
+{
+  "id": "blaster:9jJ7pA",
+  "code": "9jJ7pA",
+  "title": "clump",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/9jJ7pA/program.dsl",
+  "dslSha256": "71376adb0b8bc208bf3432080df24d4c7c126d3452a4e8b957419167fdcf2478",
+  "source": {
+    "code": "9jJ7pA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "clump",
+    "hasEffects": false,
+    "createdAt": 1787079065359
+  }
+}

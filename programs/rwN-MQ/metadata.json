@@ -1,0 +1,19 @@
+{
+  "id": "blaster:rwN-MQ",
+  "code": "rwN-MQ",
+  "title": "Untitled",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/rwN-MQ/program.dsl",
+  "dslSha256": "be47449cd2c0ef1950a48b3611157f0c97fcfede81d3c9fb621752ca84526c20",
+  "source": {
+    "code": "rwN-MQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Untitled",
+    "hasEffects": false,
+    "createdAt": 1790442205492
+  }
+}

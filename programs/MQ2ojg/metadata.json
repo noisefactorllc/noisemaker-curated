@@ -1,0 +1,19 @@
+{
+  "id": "blaster:MQ2ojg",
+  "code": "MQ2ojg",
+  "title": "Reaction-Diffusion Example",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/MQ2ojg/program.dsl",
+  "dslSha256": "5ea55cac122c90b1a3b213d67cc75a784046b8c001c48ed38fec2244e780c67d",
+  "source": {
+    "code": "MQ2ojg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Reaction-Diffusion Example",
+    "hasEffects": false,
+    "createdAt": 1781393349866
+  }
+}

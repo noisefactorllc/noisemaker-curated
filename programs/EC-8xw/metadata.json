@@ -1,0 +1,18 @@
+{
+  "id": "visualize:EC-8xw",
+  "code": "EC-8xw",
+  "title": "glitchoscope",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/EC-8xw/program.dsl",
+  "dslSha256": "3331a078e78031fbdee97a89c83a2296fc58354bb07533935c3fe759b743c0e6",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "EC-8xw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777112540910,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:cX5wbA",
+  "code": "cX5wbA",
+  "title": "halftone",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/cX5wbA/program.dsl",
+  "dslSha256": "cdb63abf3d18d9ed910becc926ef7bed561b592e848cad2d82548a8229bca912",
+  "source": {
+    "code": "cX5wbA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "halftone",
+    "hasEffects": false,
+    "createdAt": 1789131760230
+  }
+}

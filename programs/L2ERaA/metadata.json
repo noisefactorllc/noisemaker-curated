@@ -1,0 +1,19 @@
+{
+  "id": "blaster:L2ERaA",
+  "code": "L2ERaA",
+  "title": "ortho gradient",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/L2ERaA/program.dsl",
+  "dslSha256": "e5fb77dd39075a2e0a964530d28d1543398e2ef2e7bca88d66e81aa57f6e5630",
+  "source": {
+    "code": "L2ERaA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "ortho gradient",
+    "hasEffects": false,
+    "createdAt": 1789489952569
+  }
+}

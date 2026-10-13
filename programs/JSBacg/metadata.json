@@ -1,0 +1,19 @@
+{
+  "id": "blaster:JSBacg",
+  "code": "JSBacg",
+  "title": "food safety standards",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/JSBacg/program.dsl",
+  "dslSha256": "80cf6c065041ca0a79ed683b3b4bead5f7bc9897c4c7fe4bf98872459be56ffc",
+  "source": {
+    "code": "JSBacg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "food safety standards",
+    "hasEffects": false,
+    "createdAt": 1781400104229
+  }
+}

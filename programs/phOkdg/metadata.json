@@ -1,0 +1,18 @@
+{
+  "id": "visualize:phOkdg",
+  "code": "phOkdg",
+  "title": "solaris",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/phOkdg/program.dsl",
+  "dslSha256": "d370f240ed7ceee7a7f34d15de9a0669a010e217b9b6abdb1c98ce759c747a22",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "phOkdg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777307014976,
+    "importedAt": 1779766246551
+  }
+}

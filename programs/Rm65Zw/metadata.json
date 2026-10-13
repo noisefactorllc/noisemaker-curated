@@ -1,0 +1,18 @@
+{
+  "id": "visualize:Rm65Zw",
+  "code": "Rm65Zw",
+  "title": "electroquilt",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/Rm65Zw/program.dsl",
+  "dslSha256": "80d896e28d6ba7142e79f75edfabbbb6d380f615ae7924511efdfe1873e3050c",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "Rm65Zw",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "createdAt": 1776116187806,
+    "importedAt": 1779766246551
+  }
+}

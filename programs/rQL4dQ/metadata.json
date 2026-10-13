@@ -1,0 +1,19 @@
+{
+  "id": "blaster:rQL4dQ",
+  "code": "rQL4dQ",
+  "title": "chaos voxicles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/rQL4dQ/program.dsl",
+  "dslSha256": "7e849995e1328a88e359c7631bc6b5edcd2f2d55d73b9783c0c4419057d60621",
+  "source": {
+    "code": "rQL4dQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "chaos voxicles",
+    "hasEffects": false,
+    "createdAt": 1791751615228
+  }
+}

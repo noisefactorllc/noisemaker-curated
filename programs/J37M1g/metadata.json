@@ -1,0 +1,19 @@
+{
+  "id": "blaster:J37M1g",
+  "code": "J37M1g",
+  "title": "greebz",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/J37M1g/program.dsl",
+  "dslSha256": "731fd1e110f1147d7d493d7cf6abd32420f6d1c854b3a4f269e3bae438acfe4c",
+  "source": {
+    "code": "J37M1g",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "greebz",
+    "hasEffects": false,
+    "createdAt": 1783679497556
+  }
+}

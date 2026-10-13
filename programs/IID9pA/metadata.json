@@ -1,0 +1,18 @@
+{
+  "id": "visualize:IID9pA",
+  "code": "IID9pA",
+  "title": "multi-scale goo",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/IID9pA/program.dsl",
+  "dslSha256": "7a3707408c8ce29f39d28c8d39bd04d933ceea00dd695dcd6c2c0bee9959d353",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "IID9pA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778475559251,
+    "importedAt": 1779766246551
+  }
+}

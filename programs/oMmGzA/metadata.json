@@ -1,0 +1,19 @@
+{
+  "id": "blaster:oMmGzA",
+  "code": "oMmGzA",
+  "title": "wavy",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/oMmGzA/program.dsl",
+  "dslSha256": "5cd0ec9c5e3c4bf116be36e2474a79bd6b833d6b2ef10c21aa61765169a8957e",
+  "source": {
+    "code": "oMmGzA",
+    "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "title": "wavy",
+    "hasEffects": false,
+    "createdAt": 1785169551487
+  }
+}

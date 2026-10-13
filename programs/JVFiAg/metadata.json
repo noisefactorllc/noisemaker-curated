@@ -1,0 +1,19 @@
+{
+  "id": "blaster:JVFiAg",
+  "code": "JVFiAg",
+  "title": "Pink chains",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/JVFiAg/program.dsl",
+  "dslSha256": "5382eeb2e955b599fb9f08f244eb31578da6b723fab823de0efa45668d45e3eb",
+  "source": {
+    "code": "JVFiAg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "Pink chains",
+    "hasEffects": false,
+    "createdAt": 1782197031747
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:_kRK7A",
+  "code": "_kRK7A",
+  "title": "chemtrails",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/_kRK7A/program.dsl",
+  "dslSha256": "b5191afaea4b15512c7f83ea9c62b8e472a9e9cebd8ddd4b9d6885817b2fc3ea",
+  "source": {
+    "code": "_kRK7A",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "chemtrails",
+    "hasEffects": false,
+    "createdAt": 1779990240551
+  }
+}

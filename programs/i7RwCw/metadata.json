@@ -1,0 +1,18 @@
+{
+  "id": "visualize:i7RwCw",
+  "code": "i7RwCw",
+  "title": "organic kaleido",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/i7RwCw/program.dsl",
+  "dslSha256": "208b5a7c7f1bf0d3968905689a04b785649145c37e86194e38e1790dcb9228ce",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "i7RwCw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778378537371,
+    "importedAt": 1779766246551
+  }
+}

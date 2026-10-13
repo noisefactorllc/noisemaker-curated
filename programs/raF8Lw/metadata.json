@@ -1,0 +1,19 @@
+{
+  "id": "blaster:raF8Lw",
+  "code": "raF8Lw",
+  "title": "vertical blobs",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/raF8Lw/program.dsl",
+  "dslSha256": "37d0138bb15478d95fd2b790a381df4b0767e5d93a7e0cfa4ff25c98b1ae5e6a",
+  "source": {
+    "code": "raF8Lw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "vertical blobs",
+    "hasEffects": false,
+    "createdAt": 1779902816657
+  }
+}

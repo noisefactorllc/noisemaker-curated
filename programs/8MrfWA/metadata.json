@@ -1,0 +1,18 @@
+{
+  "id": "visualize:8MrfWA",
+  "code": "8MrfWA",
+  "title": "wacky noodles",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/8MrfWA/program.dsl",
+  "dslSha256": "78b4cd5df71d15c90f7ef323d5c7196250374bd3078d9f27491dba72a0e4a605",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "8MrfWA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1776023670521,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:zv4U0g",
+  "code": "zv4U0g",
+  "title": "different ways of seeing the world",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/zv4U0g/program.dsl",
+  "dslSha256": "6101e23c8a26614dd6eed8b96ed68ecc5ef05eaee3cc97e16577e96e8ed695f3",
+  "source": {
+    "code": "zv4U0g",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "different ways of seeing the world",
+    "hasEffects": false,
+    "createdAt": 1790183400040
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blaster:K3MMgw",
+  "code": "K3MMgw",
+  "title": "the evolving cyber landscape",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/K3MMgw/program.dsl",
+  "dslSha256": "9c1f1294f927615d40338f6450f7ace6e47d73c973e694b9f7052921641657dd",
+  "source": {
+    "code": "K3MMgw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "the evolving cyber landscape",
+    "hasEffects": false,
+    "createdAt": 1789405160722
+  }
+}

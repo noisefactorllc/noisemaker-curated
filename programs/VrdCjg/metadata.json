@@ -1,0 +1,19 @@
+{
+  "id": "blaster:VrdCjg",
+  "code": "VrdCjg",
+  "title": "minimum legroom",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/VrdCjg/program.dsl",
+  "dslSha256": "981acc6d2689c71cc83b9f26e3ae81450173fedd413bdbb4df6070f27b7f50cf",
+  "source": {
+    "code": "VrdCjg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "minimum legroom",
+    "hasEffects": false,
+    "createdAt": 1789407519454
+  }
+}

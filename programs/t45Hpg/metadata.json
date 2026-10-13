@@ -1,0 +1,18 @@
+{
+  "id": "visualize:t45Hpg",
+  "code": "t45Hpg",
+  "title": "waiting room",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/t45Hpg/program.dsl",
+  "dslSha256": "a7334174a4618224e3a955e0c16eeb5c010bab817b896e6e8f60e091ed55c696",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "t45Hpg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1778900568911,
+    "importedAt": 1779766246551
+  }
+}

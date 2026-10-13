@@ -1,0 +1,18 @@
+{
+  "id": "visualize:VLy1Dw",
+  "code": "VLy1Dw",
+  "title": "psytrance party",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/VLy1Dw/program.dsl",
+  "dslSha256": "cd3b2e326f830496ef09ea68ff17173a2c5ad879e8e665eb9e580b435f00a840",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "VLy1Dw",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777392510918,
+    "importedAt": 1779766246551
+  }
+}

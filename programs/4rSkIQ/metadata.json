@@ -1,0 +1,19 @@
+{
+  "id": "blaster:4rSkIQ",
+  "code": "4rSkIQ",
+  "title": "hungry hungry nanites",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/4rSkIQ/program.dsl",
+  "dslSha256": "c10d31df7382e8d06c0e13a99b88a1244d67d3633148e1bf174bba9d576a1cd1",
+  "source": {
+    "code": "4rSkIQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "hungry hungry nanites",
+    "hasEffects": false,
+    "createdAt": 1779902331412
+  }
+}

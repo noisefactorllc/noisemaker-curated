@@ -1,0 +1,2946 @@
+{
+  "version": 1,
+  "license": "MIT",
+  "count": 157,
+  "programs": [
+    {
+      "id": "blaster:v8D3lQ",
+      "code": "v8D3lQ",
+      "title": "chaos voxicles 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/v8D3lQ/program.dsl",
+      "dslSha256": "48e4884a82411ea5b3b36b25285e689ac7e246af1ed347bf705a5655ccd1ba8d",
+      "source": {
+        "code": "v8D3lQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "chaos voxicles 2",
+        "hasEffects": false,
+        "createdAt": 1791753399767
+      }
+    },
+    {
+      "id": "blaster:rQL4dQ",
+      "code": "rQL4dQ",
+      "title": "chaos voxicles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/rQL4dQ/program.dsl",
+      "dslSha256": "7e849995e1328a88e359c7631bc6b5edcd2f2d55d73b9783c0c4419057d60621",
+      "source": {
+        "code": "rQL4dQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "chaos voxicles",
+        "hasEffects": false,
+        "createdAt": 1791751615228
+      }
+    },
+    {
+      "id": "blaster:o-eW7Q",
+      "code": "o-eW7Q",
+      "title": "cyber flow",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/o-eW7Q/program.dsl",
+      "dslSha256": "f2887d74cfcf498fcb649620a7cc1ecf4dba1b4b80afb7f976eabb3c00f631ac",
+      "source": {
+        "code": "o-eW7Q",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "cyber flow",
+        "hasEffects": false,
+        "createdAt": 1791742199285
+      }
+    },
+    {
+      "id": "blaster:wsnQdw",
+      "code": "wsnQdw",
+      "title": "kaleido particles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/wsnQdw/program.dsl",
+      "dslSha256": "b2c3f9ecb13d9d3fb4cfed44143848aadc8d5a462192b9a4adac572463416177",
+      "source": {
+        "code": "wsnQdw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "kaleido particles",
+        "hasEffects": false,
+        "createdAt": 1791670353086
+      }
+    },
+    {
+      "id": "blaster:_pKOnw",
+      "code": "_pKOnw",
+      "title": "feedback dunes",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/_pKOnw/program.dsl",
+      "dslSha256": "d0a1c31561d598f5e4d15f280f313e11bd63297e92152ebcf43c51be9bdbb507",
+      "source": {
+        "code": "_pKOnw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "feedback dunes",
+        "hasEffects": false,
+        "createdAt": 1791136934832
+      }
+    },
+    {
+      "id": "blaster:qOZV9Q",
+      "code": "qOZV9Q",
+      "title": "breaking apart",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/qOZV9Q/program.dsl",
+      "dslSha256": "82f931a35cf640acd00b6dd62cf2f94e47226998d258af87e37ad7846a7a9339",
+      "source": {
+        "code": "qOZV9Q",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "breaking apart",
+        "hasEffects": false,
+        "createdAt": 1791081182531
+      }
+    },
+    {
+      "id": "blaster:ifEfxg",
+      "code": "ifEfxg",
+      "title": "cactus flower",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/ifEfxg/program.dsl",
+      "dslSha256": "b5d09cc9b72ad5637cd85bf130cbed142333ba4f030b0816542aaf3ec569b8c8",
+      "source": {
+        "code": "ifEfxg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "cactus flower",
+        "hasEffects": false,
+        "createdAt": 1791079708672
+      }
+    },
+    {
+      "id": "blaster:7INvow",
+      "code": "7INvow",
+      "title": "prismatic chemtrails",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/7INvow/program.dsl",
+      "dslSha256": "0644a9d8988f073f326877fa605d23dca09a71018a3def43a7665a5c9cf6b5a1",
+      "source": {
+        "code": "7INvow",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "shade",
+        "title": "prismatic chemtrails",
+        "hasEffects": true,
+        "createdAt": 1790977747420
+      },
+      "effectsFile": "programs/7INvow/effects.json",
+      "effectsSha256": "2cafd4abe85c3d6e9735cc071f140f3cbee67a6bc52082738ce21febb579cb67"
+    },
+    {
+      "id": "blaster:fui1YA",
+      "code": "fui1YA",
+      "title": "psychedelic plasma tunnel",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/fui1YA/program.dsl",
+      "dslSha256": "5df1d95a486064eff4a74b542bd4daffc0ad43c595092bdb7a4bd4d22eb412b4",
+      "source": {
+        "code": "fui1YA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "shade",
+        "title": "psychedelic plasma tunnel",
+        "hasEffects": true,
+        "createdAt": 1790789343201
+      },
+      "effectsFile": "programs/fui1YA/effects.json",
+      "effectsSha256": "222dfe00921cf0441cb5d18e09ff10ebf5c015634a6f693010180a1731406fdd"
+    },
+    {
+      "id": "blaster:eOjBYA",
+      "code": "eOjBYA",
+      "title": "living clay",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/eOjBYA/program.dsl",
+      "dslSha256": "7b8fd3c97e1e25deae3b51076508ac297107ea9597d6f110d6196e6021d04a8d",
+      "source": {
+        "code": "eOjBYA",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "living clay",
+        "hasEffects": false,
+        "createdAt": 1790788709256
+      }
+    },
+    {
+      "id": "blaster:tLMC4w",
+      "code": "tLMC4w",
+      "title": "wave sort",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/tLMC4w/program.dsl",
+      "dslSha256": "35a43f0140f4fb2872e09af0b759ad36838ccdb8fed9cdfb8b7455b812657420",
+      "source": {
+        "code": "tLMC4w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "wave sort",
+        "hasEffects": false,
+        "createdAt": 1790649250585
+      }
+    },
+    {
+      "id": "blaster:6l1kKA",
+      "code": "6l1kKA",
+      "title": "soft waves",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/6l1kKA/program.dsl",
+      "dslSha256": "56ae4fc51ca4fbaf2acc2ebb1c7616313a3a9333937f34c5584a715c6ec81e73",
+      "source": {
+        "code": "6l1kKA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "soft waves",
+        "hasEffects": false,
+        "createdAt": 1790617113324
+      }
+    },
+    {
+      "id": "blaster:0C4dKw",
+      "code": "0C4dKw",
+      "title": "Night Voxicles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/0C4dKw/program.dsl",
+      "dslSha256": "28991a2aa4136c858c798f1787836a6494aba3c3d4bbf44ee0904cf593ecb69c",
+      "source": {
+        "code": "0C4dKw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Night Voxicles",
+        "hasEffects": false,
+        "createdAt": 1790525884937
+      }
+    },
+    {
+      "id": "blaster:e0ukeQ",
+      "code": "e0ukeQ",
+      "title": "blocko",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/e0ukeQ/program.dsl",
+      "dslSha256": "09b60f680c630367d35033b92c099249fb543c65936632b6d9c254e440fe5fec",
+      "source": {
+        "code": "e0ukeQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "blocko",
+        "hasEffects": false,
+        "createdAt": 1790452325002
+      }
+    },
+    {
+      "id": "blaster:cTCojQ",
+      "code": "cTCojQ",
+      "title": "Untitled",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/cTCojQ/program.dsl",
+      "dslSha256": "dd6487ef77a1583916b34cd535a83c940f610be70b46d7076371b6acb5e3a24b",
+      "source": {
+        "code": "cTCojQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Untitled",
+        "hasEffects": false,
+        "createdAt": 1790443537688
+      }
+    },
+    {
+      "id": "blaster:rwN-MQ",
+      "code": "rwN-MQ",
+      "title": "Untitled",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/rwN-MQ/program.dsl",
+      "dslSha256": "be47449cd2c0ef1950a48b3611157f0c97fcfede81d3c9fb621752ca84526c20",
+      "source": {
+        "code": "rwN-MQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Untitled",
+        "hasEffects": false,
+        "createdAt": 1790442205492
+      }
+    },
+    {
+      "id": "blaster:HrVWKw",
+      "code": "HrVWKw",
+      "title": "Untitled",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/HrVWKw/program.dsl",
+      "dslSha256": "608d1242731c0560222e5990d66319a3a0e3720f18deef4e97506d41d3a9a33f",
+      "source": {
+        "code": "HrVWKw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Untitled",
+        "hasEffects": false,
+        "createdAt": 1790442140046
+      }
+    },
+    {
+      "id": "blaster:LLtbBg",
+      "code": "LLtbBg",
+      "title": "Untitled",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/LLtbBg/program.dsl",
+      "dslSha256": "f39cb25ec8988618cee1d3882fd508facbde9a93a2e449ca424cc5ea7995cc90",
+      "source": {
+        "code": "LLtbBg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Untitled",
+        "hasEffects": false,
+        "createdAt": 1790441024232
+      }
+    },
+    {
+      "id": "blaster:zv4U0g",
+      "code": "zv4U0g",
+      "title": "different ways of seeing the world",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/zv4U0g/program.dsl",
+      "dslSha256": "6101e23c8a26614dd6eed8b96ed68ecc5ef05eaee3cc97e16577e96e8ed695f3",
+      "source": {
+        "code": "zv4U0g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "different ways of seeing the world",
+        "hasEffects": false,
+        "createdAt": 1790183400040
+      }
+    },
+    {
+      "id": "blaster:YexlQw",
+      "code": "YexlQw",
+      "title": "secret pattern",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/YexlQw/program.dsl",
+      "dslSha256": "c0c0aec8227e44c6dcfb9ec0874ce1055748e3fbe35e92c0b76c275d5dd93ecb",
+      "source": {
+        "code": "YexlQw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "secret pattern",
+        "hasEffects": false,
+        "createdAt": 1790028966184
+      }
+    },
+    {
+      "id": "blaster:cixSsg",
+      "code": "cixSsg",
+      "title": "voxicles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/cixSsg/program.dsl",
+      "dslSha256": "465d69e415a1dd27c6142b24603a53eccc634bbe3e6f5cb9eef1a2e1fa3436b0",
+      "source": {
+        "code": "cixSsg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "voxicles",
+        "hasEffects": false,
+        "createdAt": 1789751410039
+      }
+    },
+    {
+      "id": "blaster:0IlHtg",
+      "code": "0IlHtg",
+      "title": "Infrastructure",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/0IlHtg/program.dsl",
+      "dslSha256": "6f4a4b26b9ee1cf9a739fe5b75e77c1250a3f6043bdfa9da6d73e758754f41b0",
+      "source": {
+        "code": "0IlHtg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Infrastructure",
+        "hasEffects": false,
+        "createdAt": 1789746691398
+      }
+    },
+    {
+      "id": "blaster:c_tWOg",
+      "code": "c_tWOg",
+      "title": "bistable",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/c_tWOg/program.dsl",
+      "dslSha256": "ea84f0c0a5ce44d1d8a93079f6a07acc22696901c45009d05f2757fdcec3387b",
+      "source": {
+        "code": "c_tWOg",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "bistable",
+        "hasEffects": false,
+        "createdAt": 1789705109504
+      }
+    },
+    {
+      "id": "blaster:ZqWbKQ",
+      "code": "ZqWbKQ",
+      "title": "landscape automation test 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/ZqWbKQ/program.dsl",
+      "dslSha256": "5d6a9e185b3e23cc58ca77877f9bb356f190929bdec03e67ae2bb89669c2b30f",
+      "source": {
+        "code": "ZqWbKQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "landscape automation test 2",
+        "hasEffects": false,
+        "createdAt": 1789492259903
+      }
+    },
+    {
+      "id": "blaster:yK_2tw",
+      "code": "yK_2tw",
+      "title": "more meandering cyber grid",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/yK_2tw/program.dsl",
+      "dslSha256": "92cebd2a98e4c0e02c326e817683c643412e78c18ad79c6e36f88233e9f26508",
+      "source": {
+        "code": "yK_2tw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "more meandering cyber grid",
+        "hasEffects": false,
+        "createdAt": 1789491138063
+      }
+    },
+    {
+      "id": "blaster:wKiJpQ",
+      "code": "wKiJpQ",
+      "title": "ortho landscape",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/wKiJpQ/program.dsl",
+      "dslSha256": "764c2c1158635b7f2379a01bca91a9b730e8d797c99d250de76c3d572cbe2ca3",
+      "source": {
+        "code": "wKiJpQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "ortho landscape",
+        "hasEffects": false,
+        "createdAt": 1789490561689
+      }
+    },
+    {
+      "id": "blaster:1FeoLQ",
+      "code": "1FeoLQ",
+      "title": "horizon",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/1FeoLQ/program.dsl",
+      "dslSha256": "c092f9a2f6cfaf70b77455af3a5b28131df1763f54df9b310234ee6f88446b83",
+      "source": {
+        "code": "1FeoLQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "horizon",
+        "hasEffects": false,
+        "createdAt": 1789490411372
+      }
+    },
+    {
+      "id": "blaster:L2ERaA",
+      "code": "L2ERaA",
+      "title": "ortho gradient",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/L2ERaA/program.dsl",
+      "dslSha256": "e5fb77dd39075a2e0a964530d28d1543398e2ef2e7bca88d66e81aa57f6e5630",
+      "source": {
+        "code": "L2ERaA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "ortho gradient",
+        "hasEffects": false,
+        "createdAt": 1789489952569
+      }
+    },
+    {
+      "id": "blaster:VrdCjg",
+      "code": "VrdCjg",
+      "title": "minimum legroom",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/VrdCjg/program.dsl",
+      "dslSha256": "981acc6d2689c71cc83b9f26e3ae81450173fedd413bdbb4df6070f27b7f50cf",
+      "source": {
+        "code": "VrdCjg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "minimum legroom",
+        "hasEffects": false,
+        "createdAt": 1789407519454
+      }
+    },
+    {
+      "id": "blaster:K3MMgw",
+      "code": "K3MMgw",
+      "title": "the evolving cyber landscape",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/K3MMgw/program.dsl",
+      "dslSha256": "9c1f1294f927615d40338f6450f7ace6e47d73c973e694b9f7052921641657dd",
+      "source": {
+        "code": "K3MMgw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "the evolving cyber landscape",
+        "hasEffects": false,
+        "createdAt": 1789405160722
+      }
+    },
+    {
+      "id": "blaster:hufdLQ",
+      "code": "hufdLQ",
+      "title": "future grid",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/hufdLQ/program.dsl",
+      "dslSha256": "8c70d4bb95673ddacb05c1ed1f6d23bf04e4fc99d8802d474402ff82b27f87e0",
+      "source": {
+        "code": "hufdLQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "future grid",
+        "hasEffects": false,
+        "createdAt": 1789362526795
+      }
+    },
+    {
+      "id": "blaster:SrB57A",
+      "code": "SrB57A",
+      "title": "particles and voxels",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/SrB57A/program.dsl",
+      "dslSha256": "bb7fa07349e44dbf12d20ceef23f9b181dcc19a01f9f7566c86d419f3bd8ffaf",
+      "source": {
+        "code": "SrB57A",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "particles and voxels",
+        "hasEffects": false,
+        "createdAt": 1789358097905
+      }
+    },
+    {
+      "id": "blaster:aNG8UA",
+      "code": "aNG8UA",
+      "title": "shooters",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/aNG8UA/program.dsl",
+      "dslSha256": "5a87a4a2f88be45ac23364642a6de97d0679d03377141e789f8f3b0777f84f45",
+      "source": {
+        "code": "aNG8UA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "shooters",
+        "hasEffects": false,
+        "createdAt": 1789357016644
+      }
+    },
+    {
+      "id": "blaster:cX5wbA",
+      "code": "cX5wbA",
+      "title": "halftone",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/cX5wbA/program.dsl",
+      "dslSha256": "cdb63abf3d18d9ed910becc926ef7bed561b592e848cad2d82548a8229bca912",
+      "source": {
+        "code": "cX5wbA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "halftone",
+        "hasEffects": false,
+        "createdAt": 1789131760230
+      }
+    },
+    {
+      "id": "blaster:wlaJRQ",
+      "code": "wlaJRQ",
+      "title": "soft cells",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/wlaJRQ/program.dsl",
+      "dslSha256": "8c456a06beaf82e2ff14e9ccc6aecbfc2ed0c4e5d390ecbae0352231688e41a6",
+      "source": {
+        "code": "wlaJRQ",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "soft cells",
+        "hasEffects": false,
+        "createdAt": 1789103531412
+      }
+    },
+    {
+      "id": "blaster:PRFMyw",
+      "code": "PRFMyw",
+      "title": "sketchy",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/PRFMyw/program.dsl",
+      "dslSha256": "47cf109c32499f2ee5bafc0dd297426249ee99ab20dec7f157da752997be5bb0",
+      "source": {
+        "code": "PRFMyw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "sketchy",
+        "hasEffects": false,
+        "createdAt": 1789075908498
+      }
+    },
+    {
+      "id": "blaster:-aMe9Q",
+      "code": "-aMe9Q",
+      "title": "trippy noise",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/-aMe9Q/program.dsl",
+      "dslSha256": "ce59a9f70eb4bdc8cece6f84ffbee2d59861d0bc8711c7396765c2e83a0dd3dc",
+      "source": {
+        "code": "-aMe9Q",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "trippy noise",
+        "hasEffects": false,
+        "createdAt": 1787893212557
+      }
+    },
+    {
+      "id": "blaster:n2FcpA",
+      "code": "n2FcpA",
+      "title": "shatter",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/n2FcpA/program.dsl",
+      "dslSha256": "d64f30f92eb25effd0152d26816d1b74e094edaf3112b73096b384af3ea3b22f",
+      "source": {
+        "code": "n2FcpA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "shatter",
+        "hasEffects": false,
+        "createdAt": 1787849563281
+      },
+      "effectsFile": "programs/n2FcpA/effects.json",
+      "effectsSha256": "72a8bc534754f9779fd1232aa36a32828276ab8630ae79f4c7fc808c8e8cfb92"
+    },
+    {
+      "id": "blaster:TxGb7g",
+      "code": "TxGb7g",
+      "title": "colorful vortices",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/TxGb7g/program.dsl",
+      "dslSha256": "d1e6f20fde099e5ea4afb9b06247c9fab8f6d04ed587e1a36c1eec55909998e9",
+      "source": {
+        "code": "TxGb7g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "colorful vortices",
+        "hasEffects": false,
+        "createdAt": 1787847917449
+      }
+    },
+    {
+      "id": "blaster:9TnQbw",
+      "code": "9TnQbw",
+      "title": "puddle",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/9TnQbw/program.dsl",
+      "dslSha256": "6930604e46dbf779a2cc5fe472ea47efc10bb73a7b704eedb2c3b96bded0fda6",
+      "source": {
+        "code": "9TnQbw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "puddle",
+        "hasEffects": false,
+        "createdAt": 1787259213952
+      }
+    },
+    {
+      "id": "blaster:lhljpw",
+      "code": "lhljpw",
+      "title": "knots",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/lhljpw/program.dsl",
+      "dslSha256": "7777a57ba72be1b81ddc2ed459833303207a893044ff7617464cd8f830ba9ad8",
+      "source": {
+        "code": "lhljpw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "knots",
+        "hasEffects": false,
+        "createdAt": 1787255476424
+      }
+    },
+    {
+      "id": "blaster:SE_8mQ",
+      "code": "SE_8mQ",
+      "title": "glitchscape",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/SE_8mQ/program.dsl",
+      "dslSha256": "a340cf02c48cdd2443d73b75d5fb7ba8a7a03117a1d2d962ecff7b79e6227d4d",
+      "source": {
+        "code": "SE_8mQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "glitchscape",
+        "hasEffects": false,
+        "createdAt": 1787235396183
+      }
+    },
+    {
+      "id": "blaster:9jJ7pA",
+      "code": "9jJ7pA",
+      "title": "clump",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/9jJ7pA/program.dsl",
+      "dslSha256": "71376adb0b8bc208bf3432080df24d4c7c126d3452a4e8b957419167fdcf2478",
+      "source": {
+        "code": "9jJ7pA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "clump",
+        "hasEffects": false,
+        "createdAt": 1787079065359
+      }
+    },
+    {
+      "id": "blaster:1D6LHg",
+      "code": "1D6LHg",
+      "title": "soft splosion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/1D6LHg/program.dsl",
+      "dslSha256": "e2c541d7d0a82a794e0d35b92e6c5e596330cc4e0b9ced042a5687552ae4d112",
+      "source": {
+        "code": "1D6LHg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "soft splosion",
+        "hasEffects": false,
+        "createdAt": 1785689824918
+      }
+    },
+    {
+      "id": "blaster:oMmGzA",
+      "code": "oMmGzA",
+      "title": "wavy",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/oMmGzA/program.dsl",
+      "dslSha256": "5cd0ec9c5e3c4bf116be36e2474a79bd6b833d6b2ef10c21aa61765169a8957e",
+      "source": {
+        "code": "oMmGzA",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "wavy",
+        "hasEffects": false,
+        "createdAt": 1785169551487
+      }
+    },
+    {
+      "id": "blaster:M9joOw",
+      "code": "M9joOw",
+      "title": "biotic",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/M9joOw/program.dsl",
+      "dslSha256": "0c397d92e0db5bdff7d0e57c1394f036ecf98b10101ef9c89b41a43c579c05ef",
+      "source": {
+        "code": "M9joOw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "biotic",
+        "hasEffects": false,
+        "createdAt": 1784717618598
+      }
+    },
+    {
+      "id": "blaster:d2CDew",
+      "code": "d2CDew",
+      "title": "dark passenger",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/d2CDew/program.dsl",
+      "dslSha256": "4a58e8d8913e221d11b5c193a003a9e3350deeeac6561c2be4b3c6d2f3e43ca9",
+      "source": {
+        "code": "d2CDew",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "dark passenger",
+        "hasEffects": false,
+        "createdAt": 1784717568230
+      }
+    },
+    {
+      "id": "blaster:XXMeHg",
+      "code": "XXMeHg",
+      "title": "fun tunnel",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/XXMeHg/program.dsl",
+      "dslSha256": "15bfa5b6ad021826e05724874f89783ca1d973445513c7d6925c7db43479194f",
+      "source": {
+        "code": "XXMeHg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "fun tunnel",
+        "hasEffects": false,
+        "createdAt": 1784568159965
+      }
+    },
+    {
+      "id": "blaster:EDRBgQ",
+      "code": "EDRBgQ",
+      "title": "runoff",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/EDRBgQ/program.dsl",
+      "dslSha256": "c1ef609abe825837ca800ec0812ae9d7dfc8fc8ea4e5a97f376c42ed36552d92",
+      "source": {
+        "code": "EDRBgQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "runoff",
+        "hasEffects": false,
+        "createdAt": 1784477294982
+      }
+    },
+    {
+      "id": "blaster:l12LTw",
+      "code": "l12LTw",
+      "title": "tarantula",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/l12LTw/program.dsl",
+      "dslSha256": "5ba70c0c218cade01cb19821eeeeb77622dec7b01aab0e957a1129e19c5f8549",
+      "source": {
+        "code": "l12LTw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "tarantula",
+        "hasEffects": false,
+        "createdAt": 1784434005033
+      }
+    },
+    {
+      "id": "blaster:ziii2Q",
+      "code": "ziii2Q",
+      "title": "cellular blocks",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/ziii2Q/program.dsl",
+      "dslSha256": "010eafb0007963c10b48e1cb1c2ff213d88d3ee7d06884b8e6a4c69dd1d72e2c",
+      "source": {
+        "code": "ziii2Q",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "cellular blocks",
+        "hasEffects": false,
+        "createdAt": 1784390493210
+      }
+    },
+    {
+      "id": "blaster:ENmglw",
+      "code": "ENmglw",
+      "title": "kaleido honeycomb",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/ENmglw/program.dsl",
+      "dslSha256": "44abc3b17a867dd0aaf28e317e478a08a1f6e924041b4df656f974215871a84d",
+      "source": {
+        "code": "ENmglw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "kaleido honeycomb",
+        "hasEffects": false,
+        "createdAt": 1784386229936
+      }
+    },
+    {
+      "id": "blaster:KGBX4w",
+      "code": "KGBX4w",
+      "title": "dragon skin",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/KGBX4w/program.dsl",
+      "dslSha256": "2f948f00f74fb79a1998cbd7441e1a8ad3ea7a2c098dad7e8a15cd3c2e88d78c",
+      "source": {
+        "code": "KGBX4w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "dragon skin",
+        "hasEffects": false,
+        "createdAt": 1784347750410
+      }
+    },
+    {
+      "id": "blaster:vFeQFA",
+      "code": "vFeQFA",
+      "title": "reaction-confusion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/vFeQFA/program.dsl",
+      "dslSha256": "d536476cbc77dc2bdb1fe4368b86d37a091d3f468b1e8004ebc8afd8392e8726",
+      "source": {
+        "code": "vFeQFA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "reaction-confusion",
+        "hasEffects": false,
+        "createdAt": 1784346703473
+      }
+    },
+    {
+      "id": "blaster:3CezRQ",
+      "code": "3CezRQ",
+      "title": "organic diffusion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/3CezRQ/program.dsl",
+      "dslSha256": "fab37df31e9b94dab5d81b58f5b53098b793d6c24b2aa3c70885e5f9d4f3dd15",
+      "source": {
+        "code": "3CezRQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "organic diffusion",
+        "hasEffects": false,
+        "createdAt": 1784345499433
+      }
+    },
+    {
+      "id": "blaster:d-MpwA",
+      "code": "d-MpwA",
+      "title": "soft and cloudy",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/d-MpwA/program.dsl",
+      "dslSha256": "9c67639d6e2e6fa35b5cde2a9b1a9e51ef161b207477765e7f15c59e8125d6d9",
+      "source": {
+        "code": "d-MpwA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "soft and cloudy",
+        "hasEffects": true,
+        "createdAt": 1784149805187
+      },
+      "effectsFile": "programs/d-MpwA/effects.json",
+      "effectsSha256": "445aaeac92f35f0acf02fce7962720192b7d9d831730565b3c5682cd7c40ba6d"
+    },
+    {
+      "id": "blaster:pLcmZA",
+      "code": "pLcmZA",
+      "title": "recombinant",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/pLcmZA/program.dsl",
+      "dslSha256": "343a4745dde0c819baaad2f607d6df1c38e5a473f0dac6326f7546dfcef03dd3",
+      "source": {
+        "code": "pLcmZA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "recombinant",
+        "hasEffects": false,
+        "createdAt": 1783954391700
+      }
+    },
+    {
+      "id": "blaster:HmX6ZA",
+      "code": "HmX6ZA",
+      "title": "programmable matter",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/HmX6ZA/program.dsl",
+      "dslSha256": "479e5624314717e3e0ff9be37aa0296610cbc40eb65bedb2c2d9b199b7998da9",
+      "source": {
+        "code": "HmX6ZA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "programmable matter",
+        "hasEffects": false,
+        "createdAt": 1783860509436
+      }
+    },
+    {
+      "id": "blaster:OtyJiQ",
+      "code": "OtyJiQ",
+      "title": "some disassembly required",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/OtyJiQ/program.dsl",
+      "dslSha256": "4f703b3ade743ce9891cc87994dbda0c4f8d9d41d2eb1ff1f8e0a78cd09073b0",
+      "source": {
+        "code": "OtyJiQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "some disassembly required",
+        "hasEffects": false,
+        "createdAt": 1783827535515
+      }
+    },
+    {
+      "id": "blaster:J37M1g",
+      "code": "J37M1g",
+      "title": "greebz",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/J37M1g/program.dsl",
+      "dslSha256": "731fd1e110f1147d7d493d7cf6abd32420f6d1c854b3a4f269e3bae438acfe4c",
+      "source": {
+        "code": "J37M1g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "greebz",
+        "hasEffects": false,
+        "createdAt": 1783679497556
+      }
+    },
+    {
+      "id": "blaster:RalPbw",
+      "code": "RalPbw",
+      "title": "bits and pieces",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/RalPbw/program.dsl",
+      "dslSha256": "1c406a9bd0c6fed703f06088a28175d013bfe4e3f9438590213584cb1779207d",
+      "source": {
+        "code": "RalPbw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "bits and pieces",
+        "hasEffects": false,
+        "createdAt": 1783678359667
+      }
+    },
+    {
+      "id": "blaster:deTy9A",
+      "code": "deTy9A",
+      "title": "canopy",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/deTy9A/program.dsl",
+      "dslSha256": "df554f3d850c913c6435e5b1505d986331dd304066b6fec05a49b38fa96c3205",
+      "source": {
+        "code": "deTy9A",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "canopy",
+        "hasEffects": false,
+        "createdAt": 1783434180507
+      }
+    },
+    {
+      "id": "blaster:QuT9WA",
+      "code": "QuT9WA",
+      "title": "parallax cells",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/QuT9WA/program.dsl",
+      "dslSha256": "4fc462a8312d0dbb0eb04ee4772ad446386c0adbb8b12a0022e921abc79bf7fb",
+      "source": {
+        "code": "QuT9WA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "parallax cells",
+        "hasEffects": false,
+        "createdAt": 1783399509229
+      }
+    },
+    {
+      "id": "blaster:fESZIw",
+      "code": "fESZIw",
+      "title": "parallax heighmap",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/fESZIw/program.dsl",
+      "dslSha256": "f0277038c77ea139c20e6fb712f195159b60420d68306cff46d0f022d83ef955",
+      "source": {
+        "code": "fESZIw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "parallax heighmap",
+        "hasEffects": false,
+        "createdAt": 1783397126301
+      }
+    },
+    {
+      "id": "blaster:Vjy9XQ",
+      "code": "Vjy9XQ",
+      "title": "electric city",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/Vjy9XQ/program.dsl",
+      "dslSha256": "8258f345febb86877f4d1ae41569cc967fcc19dd3e35ac8a1ccaa40886016ac7",
+      "source": {
+        "code": "Vjy9XQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "electric city",
+        "hasEffects": false,
+        "createdAt": 1783396509507
+      }
+    },
+    {
+      "id": "blaster:--PYCg",
+      "code": "--PYCg",
+      "title": "spawnpoint",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/--PYCg/program.dsl",
+      "dslSha256": "515c99e57fb65c4ddadd1a0d0ad0df43edbc7bb9b893d622e8dffffe372ac6c9",
+      "source": {
+        "code": "--PYCg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "spawnpoint",
+        "hasEffects": false,
+        "createdAt": 1783320698362
+      }
+    },
+    {
+      "id": "blaster:9ClItw",
+      "code": "9ClItw",
+      "title": "bottled at the source",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/9ClItw/program.dsl",
+      "dslSha256": "8c7e2095bb3928f9f403460f5f9f215868dc128c2b8e115aa2233e469c63637b",
+      "source": {
+        "code": "9ClItw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "bottled at the source",
+        "hasEffects": false,
+        "createdAt": 1782666134338
+      }
+    },
+    {
+      "id": "blaster:JS-Muw",
+      "code": "JS-Muw",
+      "title": "neon lights shine",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/JS-Muw/program.dsl",
+      "dslSha256": "4da23144926612ebddada17460ad97b9763628e7043e15cb70daab30fc5e557e",
+      "source": {
+        "code": "JS-Muw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "neon lights shine",
+        "hasEffects": false,
+        "createdAt": 1782662616413
+      }
+    },
+    {
+      "id": "blaster:P_vWpQ",
+      "code": "P_vWpQ",
+      "title": "satori 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/P_vWpQ/program.dsl",
+      "dslSha256": "a868361ab5e2f7c8f68792756fbf653cfcec629d3173720ae8caa90657659b35",
+      "source": {
+        "code": "P_vWpQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "satori 2",
+        "hasEffects": false,
+        "createdAt": 1782656101276
+      }
+    },
+    {
+      "id": "blaster:9lVZTw",
+      "code": "9lVZTw",
+      "title": "satori",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/9lVZTw/program.dsl",
+      "dslSha256": "5483d14400bc9dd51d800ba6d28ed987ec37cb38c55c7ed65dc4158e70f3e0f9",
+      "source": {
+        "code": "9lVZTw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "satori",
+        "hasEffects": false,
+        "createdAt": 1782654802454
+      }
+    },
+    {
+      "id": "blaster:r6JNHQ",
+      "code": "r6JNHQ",
+      "title": "molten 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/r6JNHQ/program.dsl",
+      "dslSha256": "1c44aef07e44d26ef0edb7c38be1d077a8c2258190d6a036cb8094c6db4df495",
+      "source": {
+        "code": "r6JNHQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "molten 2",
+        "hasEffects": false,
+        "createdAt": 1782603682534
+      }
+    },
+    {
+      "id": "blaster:7C4JdA",
+      "code": "7C4JdA",
+      "title": "molten rock",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/7C4JdA/program.dsl",
+      "dslSha256": "1037957bcaf425d63b192508a00613c37e7de410a796d86f584849705aaa6fff",
+      "source": {
+        "code": "7C4JdA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "molten rock",
+        "hasEffects": false,
+        "createdAt": 1782602040307
+      }
+    },
+    {
+      "id": "blaster:vrbcDw",
+      "code": "vrbcDw",
+      "title": "shiny satori",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/vrbcDw/program.dsl",
+      "dslSha256": "29b3043a190821114abb0d5f3bd5e461b738de6e4b8c627bfd6525241847cd45",
+      "source": {
+        "code": "vrbcDw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "shiny satori",
+        "hasEffects": false,
+        "createdAt": 1782497083741
+      }
+    },
+    {
+      "id": "blaster:Jh0AzQ",
+      "code": "Jh0AzQ",
+      "title": "shifty",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/Jh0AzQ/program.dsl",
+      "dslSha256": "1c2cb471ea02cfe7c89e4a4e17c2f46bb66b4f5e40649ca38724706d59e1b77c",
+      "source": {
+        "code": "Jh0AzQ",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "shifty",
+        "hasEffects": false,
+        "createdAt": 1782446851343
+      }
+    },
+    {
+      "id": "blaster:4mEx7g",
+      "code": "4mEx7g",
+      "title": "Hungry Squares",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/4mEx7g/program.dsl",
+      "dslSha256": "b99c07ef60277ecf972048d1756e9fc904036eca1c120c37ad6b71a3cd5cf9d8",
+      "source": {
+        "code": "4mEx7g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Hungry Squares",
+        "hasEffects": false,
+        "createdAt": 1782438039037
+      }
+    },
+    {
+      "id": "blaster:BiXL-Q",
+      "code": "BiXL-Q",
+      "title": "blue slosher",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/BiXL-Q/program.dsl",
+      "dslSha256": "b33ddf561838269c0a0f8afd3a79affe98e2ff66f7cdf8d073720759d8316032",
+      "source": {
+        "code": "BiXL-Q",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "blue slosher",
+        "hasEffects": false,
+        "createdAt": 1782404189047
+      }
+    },
+    {
+      "id": "blaster:cdYj7g",
+      "code": "cdYj7g",
+      "title": "reflection pool lyf",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/cdYj7g/program.dsl",
+      "dslSha256": "2e202f4142c075f4650887ab997ddada8f8dba177ef714dd2c51bd9d0114ac85",
+      "source": {
+        "code": "cdYj7g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "reflection pool lyf",
+        "hasEffects": false,
+        "createdAt": 1782227749942
+      }
+    },
+    {
+      "id": "blaster:NnbZ2A",
+      "code": "NnbZ2A",
+      "title": "bit rot",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/NnbZ2A/program.dsl",
+      "dslSha256": "d8a0522f9e303fbcf213f3b26c2fb5642e9e126b27e393eecd91d67245052b3f",
+      "source": {
+        "code": "NnbZ2A",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "bit rot",
+        "hasEffects": false,
+        "createdAt": 1782219506828
+      }
+    },
+    {
+      "id": "blaster:JVFiAg",
+      "code": "JVFiAg",
+      "title": "Pink chains",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/JVFiAg/program.dsl",
+      "dslSha256": "5382eeb2e955b599fb9f08f244eb31578da6b723fab823de0efa45668d45e3eb",
+      "source": {
+        "code": "JVFiAg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Pink chains",
+        "hasEffects": false,
+        "createdAt": 1782197031747
+      }
+    },
+    {
+      "id": "blaster:GyzQxg",
+      "code": "GyzQxg",
+      "title": "solar prominence",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/GyzQxg/program.dsl",
+      "dslSha256": "7d459a915a719f9cb14b9f4cf66f44ba303ef12902b1cb0ceec2f5de7ebcab31",
+      "source": {
+        "code": "GyzQxg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "solar prominence",
+        "hasEffects": false,
+        "createdAt": 1781799043458
+      }
+    },
+    {
+      "id": "blaster:u_8aBg",
+      "code": "u_8aBg",
+      "title": "Orange Slosher",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/u_8aBg/program.dsl",
+      "dslSha256": "e0c083445a843a137e76fbba4572c897a6a0b034956253910dd61b9638493e08",
+      "source": {
+        "code": "u_8aBg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Orange Slosher",
+        "hasEffects": false,
+        "createdAt": 1781796198599
+      }
+    },
+    {
+      "id": "blaster:2ifcpA",
+      "code": "2ifcpA",
+      "title": "chaos",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/2ifcpA/program.dsl",
+      "dslSha256": "84391daafccc020e166618ef9039c11f817eed0fe7a6c1b50700fcb902b74115",
+      "source": {
+        "code": "2ifcpA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "chaos",
+        "hasEffects": false,
+        "createdAt": 1781747541248
+      }
+    },
+    {
+      "id": "blaster:kQ_2mw",
+      "code": "kQ_2mw",
+      "title": "Weird Mandala",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/kQ_2mw/program.dsl",
+      "dslSha256": "437d819698908980845ec92084d33c88277ca979579c3c4a4c636d06a007266b",
+      "source": {
+        "code": "kQ_2mw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Weird Mandala",
+        "hasEffects": false,
+        "createdAt": 1781452470782
+      }
+    },
+    {
+      "id": "blaster:0BgVzw",
+      "code": "0BgVzw",
+      "title": "house party",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/0BgVzw/program.dsl",
+      "dslSha256": "06e72f7777194c86269c8818c4d783daaebc4f39df2acb7d8a7ef70e806d41bb",
+      "source": {
+        "code": "0BgVzw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "house party",
+        "hasEffects": false,
+        "createdAt": 1781447824970
+      }
+    },
+    {
+      "id": "blaster:JSBacg",
+      "code": "JSBacg",
+      "title": "food safety standards",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/JSBacg/program.dsl",
+      "dslSha256": "80cf6c065041ca0a79ed683b3b4bead5f7bc9897c4c7fe4bf98872459be56ffc",
+      "source": {
+        "code": "JSBacg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "food safety standards",
+        "hasEffects": false,
+        "createdAt": 1781400104229
+      }
+    },
+    {
+      "id": "blaster:bRUa1g",
+      "code": "bRUa1g",
+      "title": "Lit Noise Example",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/bRUa1g/program.dsl",
+      "dslSha256": "5781b7734883050a6c33660a702776077f0be099110c7f2f3fe3d55c04d02814",
+      "source": {
+        "code": "bRUa1g",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Lit Noise Example",
+        "hasEffects": false,
+        "createdAt": 1781393374701
+      }
+    },
+    {
+      "id": "blaster:MQ2ojg",
+      "code": "MQ2ojg",
+      "title": "Reaction-Diffusion Example",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/MQ2ojg/program.dsl",
+      "dslSha256": "5ea55cac122c90b1a3b213d67cc75a784046b8c001c48ed38fec2244e780c67d",
+      "source": {
+        "code": "MQ2ojg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "Reaction-Diffusion Example",
+        "hasEffects": false,
+        "createdAt": 1781393349866
+      }
+    },
+    {
+      "id": "blaster:B5oBsA",
+      "code": "B5oBsA",
+      "title": "just another kaleido saturday",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/B5oBsA/program.dsl",
+      "dslSha256": "5a537ddf15e5c63faa63b95416c8639e676aa608593065e60cf7a323a821560b",
+      "source": {
+        "code": "B5oBsA",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "just another kaleido saturday",
+        "hasEffects": true,
+        "createdAt": 1781360429242
+      },
+      "effectsFile": "programs/B5oBsA/effects.json",
+      "effectsSha256": "72a8bc534754f9779fd1232aa36a32828276ab8630ae79f4c7fc808c8e8cfb92"
+    },
+    {
+      "id": "blaster:zp_G3w",
+      "code": "zp_G3w",
+      "title": "ocean",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/zp_G3w/program.dsl",
+      "dslSha256": "0f929dd0ad48390ce25949f802bd5e429e0c872613c14d479b206e049d52cf9d",
+      "source": {
+        "code": "zp_G3w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "ocean",
+        "hasEffects": false,
+        "createdAt": 1780933062939
+      }
+    },
+    {
+      "id": "blaster:unqOuw",
+      "code": "unqOuw",
+      "title": "julia sunspots",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/unqOuw/program.dsl",
+      "dslSha256": "5900cde8ea3ada28a7ce60ad01abec4d2846a8ce69b79bc0eb2005153445cebd",
+      "source": {
+        "code": "unqOuw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "julia sunspots",
+        "hasEffects": false,
+        "createdAt": 1780329852271
+      }
+    },
+    {
+      "id": "blaster:8jayhg",
+      "code": "8jayhg",
+      "title": "äẗṁöṡṗḧëṛë",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/8jayhg/program.dsl",
+      "dslSha256": "0ec7bf28556fba910da79759526f5c3fab61f366185703a1e9befdf9c83f9363",
+      "source": {
+        "code": "8jayhg",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "äẗṁöṡṗḧëṛë",
+        "hasEffects": false,
+        "createdAt": 1780285758016
+      }
+    },
+    {
+      "id": "blaster:po0FqQ",
+      "code": "po0FqQ",
+      "title": "passing through",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/po0FqQ/program.dsl",
+      "dslSha256": "b3e51bb63eaddb85571752c891824b77bb8928fcc9edbfc37ef91d458f552bd8",
+      "source": {
+        "code": "po0FqQ",
+        "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "title": "passing through",
+        "hasEffects": false,
+        "createdAt": 1780248815727
+      }
+    },
+    {
+      "id": "blaster:bcmaJw",
+      "code": "bcmaJw",
+      "title": "dark folds",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/bcmaJw/program.dsl",
+      "dslSha256": "f03321496523e660f1ff2dc75d6661ebde07de1dca8fe8c7e152b018f36f7a94",
+      "source": {
+        "code": "bcmaJw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "dark folds",
+        "hasEffects": false,
+        "createdAt": 1780000593439
+      }
+    },
+    {
+      "id": "blaster:awB68w",
+      "code": "awB68w",
+      "title": "dank attractor",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/awB68w/program.dsl",
+      "dslSha256": "7a95baa2867622c496eb4e354129809b9b6e9d16d7936c38afbeecff701f42ef",
+      "source": {
+        "code": "awB68w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "dank attractor",
+        "hasEffects": false,
+        "createdAt": 1779997835610
+      }
+    },
+    {
+      "id": "blaster:1Hjbig",
+      "code": "1Hjbig",
+      "title": "dark poolers",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/1Hjbig/program.dsl",
+      "dslSha256": "3293c6fe73781fe16eb0519c69466e5cf74a04e7fbfb3c1a8dd8816f8f60c3f8",
+      "source": {
+        "code": "1Hjbig",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "dark poolers",
+        "hasEffects": false,
+        "createdAt": 1779993871193
+      }
+    },
+    {
+      "id": "blaster:8xAerw",
+      "code": "8xAerw",
+      "title": "tidepoolers extreme",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/8xAerw/program.dsl",
+      "dslSha256": "af3c5e82a4ceb26f08ab1dc3f430ab48b172f9537a04829b322930f22eeb8266",
+      "source": {
+        "code": "8xAerw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "tidepoolers extreme",
+        "hasEffects": false,
+        "createdAt": 1779992008382
+      }
+    },
+    {
+      "id": "blaster:_kRK7A",
+      "code": "_kRK7A",
+      "title": "chemtrails",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/_kRK7A/program.dsl",
+      "dslSha256": "b5191afaea4b15512c7f83ea9c62b8e472a9e9cebd8ddd4b9d6885817b2fc3ea",
+      "source": {
+        "code": "_kRK7A",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "chemtrails",
+        "hasEffects": false,
+        "createdAt": 1779990240551
+      }
+    },
+    {
+      "id": "blaster:raF8Lw",
+      "code": "raF8Lw",
+      "title": "vertical blobs",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/raF8Lw/program.dsl",
+      "dslSha256": "37d0138bb15478d95fd2b790a381df4b0767e5d93a7e0cfa4ff25c98b1ae5e6a",
+      "source": {
+        "code": "raF8Lw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "vertical blobs",
+        "hasEffects": false,
+        "createdAt": 1779902816657
+      }
+    },
+    {
+      "id": "blaster:4rSkIQ",
+      "code": "4rSkIQ",
+      "title": "hungry hungry nanites",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/4rSkIQ/program.dsl",
+      "dslSha256": "c10d31df7382e8d06c0e13a99b88a1244d67d3633148e1bf174bba9d576a1cd1",
+      "source": {
+        "code": "4rSkIQ",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "hungry hungry nanites",
+        "hasEffects": false,
+        "createdAt": 1779902331412
+      }
+    },
+    {
+      "id": "blaster:Clf2Jw",
+      "code": "Clf2Jw",
+      "title": "firestorm",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/Clf2Jw/program.dsl",
+      "dslSha256": "99e8f92c713d4ce0a1683c53aa86a2aed794e66927713c72625eb5d4d82d2dd3",
+      "source": {
+        "code": "Clf2Jw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "firestorm",
+        "hasEffects": false,
+        "createdAt": 1779651921760
+      }
+    },
+    {
+      "id": "blaster:uKIV-w",
+      "code": "uKIV-w",
+      "title": "neurons",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/uKIV-w/program.dsl",
+      "dslSha256": "d927a129f13f60d768967a2261751e19a29df3ac3b52204199710b711235f8fa",
+      "source": {
+        "code": "uKIV-w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "neurons",
+        "hasEffects": false,
+        "createdAt": 1779646464085
+      }
+    },
+    {
+      "id": "blaster:oF-Zsw",
+      "code": "oF-Zsw",
+      "title": "multires reaction-diffusion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/oF-Zsw/program.dsl",
+      "dslSha256": "9c6d2b58564df608ac953efad684e2acd70621752c486e419636fb939a96f56a",
+      "source": {
+        "code": "oF-Zsw",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "multires reaction-diffusion",
+        "hasEffects": false,
+        "createdAt": 1779639000077
+      }
+    },
+    {
+      "id": "blaster:bLBB4w",
+      "code": "bLBB4w",
+      "title": "kaleido diffusion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Shared original",
+      "dslFile": "programs/bLBB4w/program.dsl",
+      "dslSha256": "262dbbc1c4ceaefd3f5303b9da50c7cf2b795dabfb19425c540bf3f89aa3b279",
+      "source": {
+        "code": "bLBB4w",
+        "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+        "username": "aayars",
+        "app": "noisedeck",
+        "title": "kaleido diffusion",
+        "hasEffects": false,
+        "createdAt": 1779553839179
+      }
+    },
+    {
+      "id": "visualize:zniavg",
+      "code": "zniavg",
+      "title": "aqua fresh",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/zniavg/program.dsl",
+      "dslSha256": "070347d06a12f8624641d66b4b56a2fc20464e752102949e9928c3aeddaa2e7d",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "zniavg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1779041397188,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:yIUi8Q",
+      "code": "yIUi8Q",
+      "title": "stripes gradient",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/yIUi8Q/program.dsl",
+      "dslSha256": "84a089657ac0c53f94b5ab591d0748c007cb01dc14f965af58e22b733b852860",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "yIUi8Q",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1779037123480,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:t45Hpg",
+      "code": "t45Hpg",
+      "title": "waiting room",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/t45Hpg/program.dsl",
+      "dslSha256": "a7334174a4618224e3a955e0c16eeb5c010bab817b896e6e8f60e091ed55c696",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "t45Hpg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778900568911,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:AyZAVQ",
+      "code": "AyZAVQ",
+      "title": "the fabric",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/AyZAVQ/program.dsl",
+      "dslSha256": "d7a6ef376265eba8fa587b69c65bc84f97aa1858850b7fb052c4e8d6cc4c6c17",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "AyZAVQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778818395059,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:4mbX9w",
+      "code": "4mbX9w",
+      "title": "forest floor",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/4mbX9w/program.dsl",
+      "dslSha256": "2b3334ad753fb48a969789aeff1d443a427ab812b36d81fe902f44e8d9aa76f3",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "4mbX9w",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778817050514,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:p_ULPA",
+      "code": "p_ULPA",
+      "title": "sparkling wigglers",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/p_ULPA/program.dsl",
+      "dslSha256": "bc6afe5f609f97ae926719c1c1d302c958f0472964dc5e5416d9d3b7fd76bca3",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "p_ULPA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778816663835,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:a86kuw",
+      "code": "a86kuw",
+      "title": "down the drain",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/a86kuw/program.dsl",
+      "dslSha256": "5d665db95879cc85aab4b6d494d30c830e5c52024ed88cfd5f17427cffb74cd3",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "a86kuw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778805942416,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Lcu5gQ",
+      "code": "Lcu5gQ",
+      "title": "warp fingers",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Lcu5gQ/program.dsl",
+      "dslSha256": "7d87cce42fd4f811ea6508b26f6d7b7cec20d49c7cb58f7730aa0ae1f393d027",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Lcu5gQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778787160584,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Iaf_pQ",
+      "code": "Iaf_pQ",
+      "title": "liquid crystal descent",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Iaf_pQ/program.dsl",
+      "dslSha256": "13b353352115cb8beb99efb7c8d27e3a10c972e7198074482018bbc9f455cfed",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Iaf_pQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778759917648,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:--4EFQ",
+      "code": "--4EFQ",
+      "title": "shiny",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/--4EFQ/program.dsl",
+      "dslSha256": "03920fce811c0fb6d7d0598ed5f716c1e90612d32d87781ea025d668eec56d5f",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "--4EFQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778758905891,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:UCGI9g",
+      "code": "UCGI9g",
+      "title": "incoming signal",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/UCGI9g/program.dsl",
+      "dslSha256": "fb158f8dfb635325bedd42881a760a9584336300f8de4018cba4cbf91af5c762",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "UCGI9g",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778697207306,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:8waOng",
+      "code": "8waOng",
+      "title": "warp flux 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/8waOng/program.dsl",
+      "dslSha256": "74060d79ed41425e19df473943c9ef6125cc1676bb1e4d73f367f0f68cf24282",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "8waOng",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778690723822,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:xhwiSQ",
+      "code": "xhwiSQ",
+      "title": "warp flux",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/xhwiSQ/program.dsl",
+      "dslSha256": "0d2b0c86cee0da0d6b8842594bd77b0046e4045eda0b9334d287383e6072ef37",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "xhwiSQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778690479033,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:7iHiBA",
+      "code": "7iHiBA",
+      "title": "hatchlings",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/7iHiBA/program.dsl",
+      "dslSha256": "84882fc6f5471e4409cbc7e514e0f75610ee013ffcbb14e74917cea029d40e42",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "7iHiBA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778687046183,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:pafAcQ",
+      "code": "pafAcQ",
+      "title": "glorp",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/pafAcQ/program.dsl",
+      "dslSha256": "2550b6a6e38801d8df473f5e4d01ef84b68951c84e8ee819a0b040edce1ec449",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "pafAcQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778511385421,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:TA0KCQ",
+      "code": "TA0KCQ",
+      "title": "juicy",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/TA0KCQ/program.dsl",
+      "dslSha256": "6398e48a53ce483c878c0a1618e60a21e131ac4fd014cf608846c47f99486444",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "TA0KCQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778480139279,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:IID9pA",
+      "code": "IID9pA",
+      "title": "multi-scale goo",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/IID9pA/program.dsl",
+      "dslSha256": "7a3707408c8ce29f39d28c8d39bd04d933ceea00dd695dcd6c2c0bee9959d353",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "IID9pA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778475559251,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:CUtnoA",
+      "code": "CUtnoA",
+      "title": "organic soup 2",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/CUtnoA/program.dsl",
+      "dslSha256": "28e5eae4ea2d60745e2e70492612d6a2d738feffdb02b3b057e09578b1cbf277",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "CUtnoA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778444958209,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:WiQTJA",
+      "code": "WiQTJA",
+      "title": "organic soup",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/WiQTJA/program.dsl",
+      "dslSha256": "a734016cbb23f98c9b857620602b23456aea1f1d73925120edacc96eb582a404",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "WiQTJA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778428840983,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Rdc8ig",
+      "code": "Rdc8ig",
+      "title": "multires reaction",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Rdc8ig/program.dsl",
+      "dslSha256": "e959ae0c8f966b118e19fefa46da7c1402ae4e9cbe6691736f5ef99ef2adc933",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Rdc8ig",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778428593681,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:VhNVtQ",
+      "code": "VhNVtQ",
+      "title": "crawling kaleido",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/VhNVtQ/program.dsl",
+      "dslSha256": "3abfeefc253c1b8fdfcc6d75054a90eb37d19c05836b99a83511b3fadd111635",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "VhNVtQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778379187586,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:i7RwCw",
+      "code": "i7RwCw",
+      "title": "organic kaleido",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/i7RwCw/program.dsl",
+      "dslSha256": "208b5a7c7f1bf0d3968905689a04b785649145c37e86194e38e1790dcb9228ce",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "i7RwCw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1778378537371,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:bbPVig",
+      "code": "bbPVig",
+      "title": "beckoning",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/bbPVig/program.dsl",
+      "dslSha256": "f0d0a0c544ef5c3c8c41f1f94b551e63fcae721532d312f683eaa9b3fc056333",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "bbPVig",
+        "username": "aayars",
+        "app": "polymorphic",
+        "createdAt": 1778172020838,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:ZZw1JQ",
+      "code": "ZZw1JQ",
+      "title": "dual renderers",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/ZZw1JQ/program.dsl",
+      "dslSha256": "a90c9863c0a74f16414b7f5f4428d4b2a54d9d67e9bd5814db42b67c210122ed",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "ZZw1JQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777999324847,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:tif_YQ",
+      "code": "tif_YQ",
+      "title": "xor ynot",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/tif_YQ/program.dsl",
+      "dslSha256": "36dced3dcfd3163eb97c248220eb3d425868d00382a021612f7c716ed3fbbe01",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "tif_YQ",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "createdAt": 1777950574097,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:cpjqpw",
+      "code": "cpjqpw",
+      "title": "arterial",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/cpjqpw/program.dsl",
+      "dslSha256": "751e32f08547e0c7e361a1b52c391d905386c678153bb46f8dfc770042801364",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "cpjqpw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777950350519,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Uf49UQ",
+      "code": "Uf49UQ",
+      "title": "corrosion",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Uf49UQ/program.dsl",
+      "dslSha256": "25e4fe66c1d760f3eaeed500dbece23f33c4721d0f163acb10686d156c55c835",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Uf49UQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777950080541,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:U9m8sw",
+      "code": "U9m8sw",
+      "title": "rfk's gut biome",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/U9m8sw/program.dsl",
+      "dslSha256": "961f88067871299e949db2ed6882bebe76d001c0a2cf538cba8a9b2f5efd723b",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "U9m8sw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777525567570,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:PLYtXA",
+      "code": "PLYtXA",
+      "title": "water sample",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/PLYtXA/program.dsl",
+      "dslSha256": "006da10157ec7718a1302f8dd18bc55c34b2d0ffb80f778e421bffb3daa36460",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "PLYtXA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777523170016,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:7zjzXA",
+      "code": "7zjzXA",
+      "title": "twisty knots",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/7zjzXA/program.dsl",
+      "dslSha256": "6dd1c194460ffefc5b0c27cfe4d37f61e526c78ad4dfa70c6bd580e32a3b41c9",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "7zjzXA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777483100337,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:VLy1Dw",
+      "code": "VLy1Dw",
+      "title": "psytrance party",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/VLy1Dw/program.dsl",
+      "dslSha256": "cd3b2e326f830496ef09ea68ff17173a2c5ad879e8e665eb9e580b435f00a840",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "VLy1Dw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777392510918,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Ri2a1w",
+      "code": "Ri2a1w",
+      "title": "gem is outrageous",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Ri2a1w/program.dsl",
+      "dslSha256": "0f30b88695a0e7ae687ba983abc9ae182c95971679cb7e75afa8eabb507a68d4",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Ri2a1w",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777319138081,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:B1qtXg",
+      "code": "B1qtXg",
+      "title": "gem",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/B1qtXg/program.dsl",
+      "dslSha256": "a6f02c6d00333cb4ad752bfdac1f8fde74ecc1b6290297e74285397416fac15f",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "B1qtXg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777316727494,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:phOkdg",
+      "code": "phOkdg",
+      "title": "solaris",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/phOkdg/program.dsl",
+      "dslSha256": "d370f240ed7ceee7a7f34d15de9a0669a010e217b9b6abdb1c98ce759c747a22",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "phOkdg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777307014976,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:gqGiEA",
+      "code": "gqGiEA",
+      "title": "it's the pits",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/gqGiEA/program.dsl",
+      "dslSha256": "52b41cc076583d6abd23b5c17529eae57b91dcfe1aea1d26d0651f1d222d99a7",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "gqGiEA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777302413825,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:GPHYAQ",
+      "code": "GPHYAQ",
+      "title": "matrix mirror",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/GPHYAQ/program.dsl",
+      "dslSha256": "8342df62a1fc10aa7b81e8c40d3534ed4059ce69ee1d02d900c5cbac18cd0e94",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "GPHYAQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777154976127,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:EC-8xw",
+      "code": "EC-8xw",
+      "title": "glitchoscope",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/EC-8xw/program.dsl",
+      "dslSha256": "3331a078e78031fbdee97a89c83a2296fc58354bb07533935c3fe759b743c0e6",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "EC-8xw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777112540910,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:t2TLEg",
+      "code": "t2TLEg",
+      "title": "lit noise",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/t2TLEg/program.dsl",
+      "dslSha256": "329c5d414a5962211f6eec038423ba8219e5807005cba66b6a1888bfcd3cf01a",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "t2TLEg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777053229606,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:d0pT9Q",
+      "code": "d0pT9Q",
+      "title": "flowing particles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/d0pT9Q/program.dsl",
+      "dslSha256": "a75842b86b116958e240a6c8209d228ff379321b1d6f0f2febbbcaed27478594",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "d0pT9Q",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777052624163,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:TLFgkw",
+      "code": "TLFgkw",
+      "title": "fluid flow",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/TLFgkw/program.dsl",
+      "dslSha256": "709da15aaf7ec80b39df2f18f884818a740c5a28d5ac587fb0e085410be53cf3",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "TLFgkw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1777052506117,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:wS37Vw",
+      "code": "wS37Vw",
+      "title": "jigglin' automata",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/wS37Vw/program.dsl",
+      "dslSha256": "7889fada59981e7592fa6155caf4cfa9fb5f51752efdd58b0072f20b874fa176",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "wS37Vw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776971166558,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:xceTLA",
+      "code": "xceTLA",
+      "title": "diffraction",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/xceTLA/program.dsl",
+      "dslSha256": "4cd994b92790d6e2a96b098102f29020c25810f0c866771d1f8ad08a61c10430",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "xceTLA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776960967497,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:E2wekg",
+      "code": "E2wekg",
+      "title": "the quickest silver",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/E2wekg/program.dsl",
+      "dslSha256": "db6169a22359437f05871cb1edcf2518e6d346139fcfc34250f24162b6e53779",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "E2wekg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776785918426,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:kwI7eQ",
+      "code": "kwI7eQ",
+      "title": "oozer",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/kwI7eQ/program.dsl",
+      "dslSha256": "0a2259f5d43d8f9609dc4467bec0c170fb0677dd54c2844573127c8543f8a808",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "kwI7eQ",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776323746427,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:bcNzTw",
+      "code": "bcNzTw",
+      "title": "slime time",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/bcNzTw/program.dsl",
+      "dslSha256": "c6bb96e08f62d09d49ca001a8136cd17868795acac4a2340ab50d489c717f1db",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "bcNzTw",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776226454443,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:UQMtLA",
+      "code": "UQMtLA",
+      "title": "warp flow",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/UQMtLA/program.dsl",
+      "dslSha256": "191265d75f362158826b4dc4d6ae73dc3b2d9b941fe74d2513969b515aa65c15",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "UQMtLA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776225065519,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Rz2C9g",
+      "code": "Rz2C9g",
+      "title": "city of the future",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Rz2C9g/program.dsl",
+      "dslSha256": "7af06bc2b990d5ccb90a5028fe58add5b3ccfc62c31115a913f524757b9f9866",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Rz2C9g",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776221927978,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:pMu1Gg",
+      "code": "pMu1Gg",
+      "title": "retro",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/pMu1Gg/program.dsl",
+      "dslSha256": "d46667073770bbe2bab9bbc7f16f55051f088790dd907c837295a4399314ea87",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "pMu1Gg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776122442158,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:0TxrwQ",
+      "code": "0TxrwQ",
+      "title": "squirmy automatons",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/0TxrwQ/program.dsl",
+      "dslSha256": "e76851886aeec276dce71322f90589e43e3a9fdf4fcf20f4dea0d1a3e00d90fa",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "0TxrwQ",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "createdAt": 1776117431146,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:Rm65Zw",
+      "code": "Rm65Zw",
+      "title": "electroquilt",
+      "author": "Jess Hewitt",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/Rm65Zw/program.dsl",
+      "dslSha256": "80d896e28d6ba7142e79f75edfabbbb6d380f615ae7924511efdfe1873e3050c",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "Rm65Zw",
+        "username": "Jess Hewitt",
+        "app": "noisedeck",
+        "createdAt": 1776116187806,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:VzWBfA",
+      "code": "VzWBfA",
+      "title": "living glop",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/VzWBfA/program.dsl",
+      "dslSha256": "0d819f9fb2242f2c94eedfbb2c2746cb230dfbc15acb8b0050990377e03253ff",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "VzWBfA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776097220113,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:QtmhUg",
+      "code": "QtmhUg",
+      "title": "teh matrex haz u",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/QtmhUg/program.dsl",
+      "dslSha256": "dbfeae795c98cbe91a5afc0c9c0778f0332b478b9095f49229c0bbc569ea6e4d",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "QtmhUg",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776092604467,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:8MrfWA",
+      "code": "8MrfWA",
+      "title": "wacky noodles",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/8MrfWA/program.dsl",
+      "dslSha256": "78b4cd5df71d15c90f7ef323d5c7196250374bd3078d9f27491dba72a0e4a605",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "8MrfWA",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1776023670521,
+        "importedAt": 1779766246551
+      }
+    },
+    {
+      "id": "visualize:KLlH1A",
+      "code": "KLlH1A",
+      "title": "brane folds",
+      "author": "Alex Ayars",
+      "license": "MIT",
+      "variant": "Visualize curated version",
+      "dslFile": "programs/KLlH1A/program.dsl",
+      "dslSha256": "3bb10cc5ce52d6419723347ca518c808afafa5919ea4724f32c3de21fe540751",
+      "source": {
+        "feed": "noiseblaster",
+        "code": "KLlH1A",
+        "username": "aayars",
+        "app": "noisedeck",
+        "createdAt": 1775924882644,
+        "importedAt": 1779766246551
+      }
+    }
+  ]
+}

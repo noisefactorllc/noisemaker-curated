@@ -1,0 +1,19 @@
+{
+  "id": "blaster:Clf2Jw",
+  "code": "Clf2Jw",
+  "title": "firestorm",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/Clf2Jw/program.dsl",
+  "dslSha256": "99e8f92c713d4ce0a1683c53aa86a2aed794e66927713c72625eb5d4d82d2dd3",
+  "source": {
+    "code": "Clf2Jw",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "firestorm",
+    "hasEffects": false,
+    "createdAt": 1779651921760
+  }
+}

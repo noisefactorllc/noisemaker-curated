@@ -1,0 +1,19 @@
+{
+  "id": "blaster:-aMe9Q",
+  "code": "-aMe9Q",
+  "title": "trippy noise",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/-aMe9Q/program.dsl",
+  "dslSha256": "ce59a9f70eb4bdc8cece6f84ffbee2d59861d0bc8711c7396765c2e83a0dd3dc",
+  "source": {
+    "code": "-aMe9Q",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "trippy noise",
+    "hasEffects": false,
+    "createdAt": 1787893212557
+  }
+}

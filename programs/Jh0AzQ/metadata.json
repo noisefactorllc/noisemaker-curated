@@ -1,0 +1,19 @@
+{
+  "id": "blaster:Jh0AzQ",
+  "code": "Jh0AzQ",
+  "title": "shifty",
+  "author": "Jess Hewitt",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/Jh0AzQ/program.dsl",
+  "dslSha256": "1c2cb471ea02cfe7c89e4a4e17c2f46bb66b4f5e40649ca38724706d59e1b77c",
+  "source": {
+    "code": "Jh0AzQ",
+    "userId": "b6f4143d-46b9-4ec8-a911-3a918e09f5d3",
+    "username": "Jess Hewitt",
+    "app": "noisedeck",
+    "title": "shifty",
+    "hasEffects": false,
+    "createdAt": 1782446851343
+  }
+}

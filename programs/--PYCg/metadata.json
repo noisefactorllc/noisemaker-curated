@@ -1,0 +1,19 @@
+{
+  "id": "blaster:--PYCg",
+  "code": "--PYCg",
+  "title": "spawnpoint",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/--PYCg/program.dsl",
+  "dslSha256": "515c99e57fb65c4ddadd1a0d0ad0df43edbc7bb9b893d622e8dffffe372ac6c9",
+  "source": {
+    "code": "--PYCg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "spawnpoint",
+    "hasEffects": false,
+    "createdAt": 1783320698362
+  }
+}

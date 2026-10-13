@@ -1,0 +1,19 @@
+{
+  "id": "blaster:r6JNHQ",
+  "code": "r6JNHQ",
+  "title": "molten 2",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/r6JNHQ/program.dsl",
+  "dslSha256": "1c44aef07e44d26ef0edb7c38be1d077a8c2258190d6a036cb8094c6db4df495",
+  "source": {
+    "code": "r6JNHQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "molten 2",
+    "hasEffects": false,
+    "createdAt": 1782603682534
+  }
+}

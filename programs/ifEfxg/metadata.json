@@ -1,0 +1,19 @@
+{
+  "id": "blaster:ifEfxg",
+  "code": "ifEfxg",
+  "title": "cactus flower",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/ifEfxg/program.dsl",
+  "dslSha256": "b5d09cc9b72ad5637cd85bf130cbed142333ba4f030b0816542aaf3ec569b8c8",
+  "source": {
+    "code": "ifEfxg",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "cactus flower",
+    "hasEffects": false,
+    "createdAt": 1791079708672
+  }
+}

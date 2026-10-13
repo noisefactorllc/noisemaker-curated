@@ -1,0 +1,18 @@
+{
+  "id": "visualize:t2TLEg",
+  "code": "t2TLEg",
+  "title": "lit noise",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/t2TLEg/program.dsl",
+  "dslSha256": "329c5d414a5962211f6eec038423ba8219e5807005cba66b6a1888bfcd3cf01a",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "t2TLEg",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777053229606,
+    "importedAt": 1779766246551
+  }
+}

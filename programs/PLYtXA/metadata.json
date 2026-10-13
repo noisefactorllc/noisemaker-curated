@@ -1,0 +1,18 @@
+{
+  "id": "visualize:PLYtXA",
+  "code": "PLYtXA",
+  "title": "water sample",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/PLYtXA/program.dsl",
+  "dslSha256": "006da10157ec7718a1302f8dd18bc55c34b2d0ffb80f778e421bffb3daa36460",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "PLYtXA",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1777523170016,
+    "importedAt": 1779766246551
+  }
+}

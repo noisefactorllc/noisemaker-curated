@@ -1,0 +1,19 @@
+{
+  "id": "blaster:EDRBgQ",
+  "code": "EDRBgQ",
+  "title": "runoff",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/EDRBgQ/program.dsl",
+  "dslSha256": "c1ef609abe825837ca800ec0812ae9d7dfc8fc8ea4e5a97f376c42ed36552d92",
+  "source": {
+    "code": "EDRBgQ",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "runoff",
+    "hasEffects": false,
+    "createdAt": 1784477294982
+  }
+}

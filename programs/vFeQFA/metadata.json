@@ -1,0 +1,19 @@
+{
+  "id": "blaster:vFeQFA",
+  "code": "vFeQFA",
+  "title": "reaction-confusion",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Shared original",
+  "dslFile": "programs/vFeQFA/program.dsl",
+  "dslSha256": "d536476cbc77dc2bdb1fe4368b86d37a091d3f468b1e8004ebc8afd8392e8726",
+  "source": {
+    "code": "vFeQFA",
+    "userId": "426bf90e-be5b-4444-bc31-24eb1c719926",
+    "username": "aayars",
+    "app": "noisedeck",
+    "title": "reaction-confusion",
+    "hasEffects": false,
+    "createdAt": 1784346703473
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "visualize:yIUi8Q",
+  "code": "yIUi8Q",
+  "title": "stripes gradient",
+  "author": "Alex Ayars",
+  "license": "MIT",
+  "variant": "Visualize curated version",
+  "dslFile": "programs/yIUi8Q/program.dsl",
+  "dslSha256": "84a089657ac0c53f94b5ab591d0748c007cb01dc14f965af58e22b733b852860",
+  "source": {
+    "feed": "noiseblaster",
+    "code": "yIUi8Q",
+    "username": "aayars",
+    "app": "noisedeck",
+    "createdAt": 1779037123480,
+    "importedAt": 1779766246551
+  }
+}

@@ -1,6 +1,6 @@
 # Noisemaker Curated
 
-Noisemaker DSL programs by Alex Ayars and Jess Hewitt, selected from Noiseblaster and Visualize.
+Noisemaker DSL programs by Alex Ayars and Jess Hewitt.
 
 Content cutoff: **2026-10-13**. This collection will be updated over time.
 
